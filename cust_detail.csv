@@ -1,0 +1,1001 @@
+Client_Num,Customer_Age,Gender,Dependent_Count,Education_Level,Marital_Status,State_cd,Zipcode,Car_Owner,House_Owner,Personal_Loan,Contact,Customer_Job,Income,Cust_Satisfaction_Score
+708082083,24,F,1,Uneducated,Single,FL,91750,no,yes,no,unknown,Businessman,202326,3
+708083283,62,F,0,Unknown,Married,NJ,91750,no,no,no,cellular,Selfemployeed,5225,2
+708084558,32,F,1,Unknown,Married,NJ,91750,yes,no,no,unknown,Selfemployeed,14235,2
+708085458,38,M,2,Uneducated,Single,NY,91750,no,no,no,cellular,Blue-collar,45683,1
+708086958,48,M,4,Graduate,Single,TX,91750,yes,yes,no,cellular,Businessman,59279,1
+708095133,33,F,1,"High School",Single,NY,91750,no,yes,no,cellular,Selfemployeed,14254,3
+708098133,34,F,3,Graduate,Single,CA,91750,yes,no,no,telephone,Selfemployeed,14975,2
+708099183,34,F,2,Uneducated,Single,CA,91750,no,no,no,cellular,Retirees,31982,2
+708100533,48,M,2,"High School",Married,NJ,91750,yes,no,no,telephone,Businessman,86668,2
+708103608,53,F,1,Graduate,Married,NJ,91750,yes,yes,no,cellular,Businessman,223196,1
+708104658,31,F,0,Post-Graduate,Single,CA,91750,no,yes,no,telephone,Businessman,33625,2
+708108333,34,F,4,Graduate,Single,NY,91750,no,no,no,cellular,Selfemployeed,14975,3
+708112008,51,F,2,Graduate,Single,NJ,91750,yes,yes,no,cellular,Selfemployeed,14975,2
+708113208,36,M,1,"High School",Single,NJ,91750,yes,no,no,telephone,White-collar,59416,3
+708117933,49,F,4,Graduate,Married,CA,91750,no,yes,no,unknown,Retirees,28122,1
+708119658,53,F,2,Graduate,Single,FL,91750,yes,no,no,cellular,Govt,29021,1
+708121908,49,F,1,Graduate,Married,TX,91750,no,no,no,unknown,Selfemployeed,20632,3
+708123033,47,F,5,Graduate,Married,FL,91750,no,no,no,cellular,Businessman,172101,2
+708125733,43,F,4,Graduate,Single,FL,91750,no,no,no,cellular,Retirees,57168,2
+708128733,47,M,3,Graduate,Married,NY,91750,no,no,no,cellular,Govt,89954,2
+708129933,34,F,3,Uneducated,Single,TX,91750,yes,yes,yes,telephone,Blue-collar,53762,1
+708132783,37,F,5,Unknown,Married,NJ,91750,yes,yes,no,cellular,Selfemployeed,45476,3
+708134283,63,M,0,Graduate,Single,TX,91750,yes,yes,yes,cellular,Selfemployeed,14975,2
+708136908,55,M,2,Doctorate,Married,MO,91750,yes,yes,no,cellular,Retirees,72878,2
+708139833,38,F,1,Unknown,Single,NY,91750,no,no,no,cellular,Businessman,25667,3
+708145908,40,M,3,Graduate,Single,MA,91750,no,yes,no,cellular,Blue-collar,47224,1
+708147108,55,F,0,Graduate,Single,NY,91750,yes,no,no,unknown,White-collar,25341,2
+708148158,33,M,2,Doctorate,Single,NY,91750,no,yes,yes,cellular,Blue-collar,53644,3
+708151008,54,F,1,Uneducated,Married,CA,91750,no,yes,no,cellular,Govt,27423,2
+708152358,46,M,3,Graduate,Married,NY,91750,yes,yes,no,cellular,Blue-collar,110014,2
+708153558,44,M,4,Graduate,Unknown,IA,91750,no,no,no,telephone,Businessman,109186,3
+708154833,40,F,3,Graduate,Married,NJ,91750,yes,yes,no,cellular,Govt,25835,2
+708155733,44,F,3,Graduate,Married,CA,91750,yes,yes,no,unknown,Selfemployeed,11345,2
+708158133,51,F,2,Uneducated,Single,NY,91750,yes,no,no,cellular,Selfemployeed,23215,2
+708160008,60,M,0,Graduate,Single,CA,91750,no,no,no,cellular,Businessman,103581,3
+708161133,49,F,2,Unknown,Single,TX,91750,yes,yes,no,cellular,Selfemployeed,44555,3
+708162558,43,F,5,Graduate,Married,TX,91750,no,yes,no,cellular,Selfemployeed,12381,2
+708163758,54,M,1,Graduate,Single,NY,91750,no,yes,no,unknown,White-collar,123809,1
+708170508,32,F,0,Graduate,Married,FL,91750,yes,no,no,unknown,Selfemployeed,14975,1
+708171858,52,F,3,Graduate,Married,NY,91750,no,yes,no,unknown,Businessman,30586,1
+708173433,43,F,1,Graduate,Single,CA,91750,no,no,no,unknown,Retirees,28367,3
+708174708,49,F,0,Graduate,Single,NY,91750,yes,no,no,cellular,White-collar,15355,1
+708176208,49,F,1,Uneducated,Married,CA,91750,no,no,no,cellular,Govt,53428,2
+708177333,42,F,3,Graduate,Single,CA,91750,yes,yes,no,unknown,Selfemployeed,7865,2
+708178608,48,F,3,Unknown,Unknown,FL,91750,no,no,no,cellular,Blue-collar,54304,1
+708185208,47,F,2,Doctorate,Single,CA,91750,no,yes,no,cellular,Selfemployeed,20100,2
+708186933,47,F,4,Unknown,Unknown,CA,91750,no,yes,no,cellular,Blue-collar,24295,1
+708190158,47,F,3,Unknown,Single,NY,91750,no,yes,no,unknown,Govt,32103,3
+708193008,53,F,2,Graduate,Married,CA,91750,no,no,yes,telephone,Selfemployeed,14975,2
+708195633,47,F,4,"High School",Married,TX,91750,yes,yes,no,unknown,Selfemployeed,27517,3
+708197358,42,M,1,Uneducated,Married,AK,99504,no,no,yes,cellular,Govt,107887,1
+708204033,53,M,2,Graduate,Married,CA,91750,yes,no,yes,cellular,Selfemployeed,51233,1
+708205083,54,M,2,Graduate,Married,NJ,91750,no,no,no,cellular,Blue-collar,79516,1
+708207783,48,M,1,Graduate,Married,NY,91750,no,yes,no,cellular,Blue-collar,73959,1
+708208758,42,F,3,Doctorate,Single,FL,91750,yes,yes,no,cellular,Blue-collar,23377,2
+708211383,44,F,3,Uneducated,Single,TX,91750,no,yes,no,cellular,Retirees,44883,3
+708212658,40,F,3,"High School",Single,TX,91750,no,no,yes,unknown,Retirees,16041,2
+708216108,58,F,1,Unknown,Married,NY,91750,no,yes,no,cellular,Businessman,24221,3
+708217758,57,F,1,Graduate,Single,CA,91750,no,yes,no,cellular,Selfemployeed,14975,3
+708219108,38,M,2,Graduate,Married,CA,91750,yes,no,no,cellular,Blue-collar,102561,3
+708219858,53,F,1,Graduate,Unknown,CA,91750,no,yes,no,cellular,White-collar,56697,2
+708222558,60,F,1,Uneducated,Single,NJ,91750,no,no,no,cellular,Retirees,53022,3
+708223383,51,F,3,Uneducated,Married,NY,91750,yes,no,yes,cellular,Businessman,32013,1
+708224133,39,M,4,Graduate,Single,NJ,91750,yes,no,no,cellular,Selfemployeed,62192,2
+708225483,38,F,2,Post-Graduate,Married,CA,91750,yes,yes,no,cellular,Selfemployeed,55061,2
+708226833,50,M,2,"High School",Married,NY,91750,no,no,no,unknown,Businessman,127461,3
+708229308,37,M,1,Uneducated,Single,NY,91750,yes,no,no,cellular,Businessman,100839,2
+708231183,39,F,1,Uneducated,Single,CA,91750,no,no,no,unknown,Retirees,31127,2
+708234558,62,M,0,"High School",Single,TX,91750,no,yes,no,cellular,Selfemployeed,67827,3
+708238833,38,F,2,"High School",Married,NY,91750,no,yes,no,cellular,Blue-collar,12994,1
+708241233,38,F,1,Graduate,Married,CA,91750,no,yes,no,unknown,Selfemployeed,5225,1
+708242283,44,F,1,Unknown,Single,TX,91750,no,yes,yes,cellular,Govt,35755,3
+708243483,60,F,2,"High School",Single,TX,91750,yes,no,no,cellular,Retirees,24156,2
+708244458,26,M,0,Graduate,Single,NY,91750,no,yes,no,cellular,White-collar,37888,3
+708245808,41,M,0,"High School",Unknown,FL,91750,yes,yes,no,telephone,Businessman,145701,1
+708248358,61,F,2,Graduate,Married,CA,90094,yes,no,no,unknown,Businessman,186885,1
+708249708,39,F,2,Graduate,Single,CA,91750,yes,no,no,cellular,Selfemployeed,14975,1
+708252108,50,F,1,Graduate,Single,FL,91750,no,yes,no,cellular,Selfemployeed,49229,2
+708253458,45,M,2,Unknown,Married,CA,91750,no,yes,no,cellular,Govt,81622,2
+708254733,56,M,2,Graduate,Married,CA,91750,no,no,no,unknown,Blue-collar,95152,2
+708255633,47,F,3,Graduate,Single,FL,91750,yes,yes,no,telephone,Blue-collar,35666,2
+708260208,48,F,3,Graduate,Married,TX,91750,no,yes,no,cellular,White-collar,57686,1
+708266883,37,F,2,Graduate,Married,TX,91750,no,yes,yes,cellular,Selfemployeed,25423,3
+708267858,33,F,4,"High School",Single,NJ,91750,no,no,no,cellular,Selfemployeed,21500,3
+708269583,41,F,1,"High School",Single,NY,91750,no,no,no,cellular,White-collar,47653,3
+708271833,48,F,3,Graduate,Married,CA,91750,no,yes,yes,unknown,Govt,37680,3
+708272808,41,F,2,Unknown,Single,FL,91750,yes,yes,no,cellular,White-collar,38560,2
+708273858,39,F,1,Graduate,Single,NY,91750,no,no,no,cellular,White-collar,41203,1
+708276183,54,F,2,Graduate,Married,TX,91750,no,no,no,cellular,Selfemployeed,14975,2
+708281433,40,F,3,Uneducated,Single,NY,91750,yes,no,no,cellular,Businessman,43626,1
+708285108,44,M,4,Unknown,Married,TX,91750,yes,no,no,cellular,White-collar,131861,1
+708286683,38,M,1,Graduate,Unknown,FL,91750,yes,no,no,cellular,White-collar,83306,2
+708288108,29,M,0,Graduate,Single,NJ,91750,no,no,no,cellular,Selfemployeed,1250,3
+708290208,63,F,2,Graduate,Single,NY,91750,yes,no,no,cellular,White-collar,34835,2
+708291633,54,M,1,Unknown,Single,FL,91750,no,no,no,cellular,Businessman,92894,1
+708292833,41,F,2,Graduate,Married,CA,91750,yes,no,no,cellular,Govt,32170,3
+708295533,55,M,2,Unknown,Single,FL,91750,no,no,no,cellular,Blue-collar,10119,2
+708296883,31,F,1,Graduate,Single,CA,91750,no,yes,yes,unknown,Selfemployeed,8250,1
+708298233,44,F,4,"High School",Married,NJ,91750,no,no,no,unknown,Blue-collar,15092,3
+708300483,46,F,4,Doctorate,Married,NY,91750,no,yes,no,cellular,Selfemployeed,1250,1
+708301683,40,M,4,"High School",Unknown,NY,91750,no,yes,no,cellular,Govt,110415,2
+708303108,36,M,3,"High School",Married,NJ,91750,yes,yes,no,cellular,Govt,86574,1
+708307533,37,M,4,Post-Graduate,Married,NY,91750,yes,no,no,cellular,Govt,51165,2
+708313608,59,F,1,Graduate,Married,NJ,91750,no,no,no,cellular,Blue-collar,21659,3
+708314808,49,F,3,Uneducated,Single,TX,91750,no,yes,no,cellular,Selfemployeed,14975,3
+708316008,43,F,5,Unknown,Single,CA,91750,no,no,no,cellular,Selfemployeed,15806,3
+708319908,56,M,1,Graduate,Single,TX,91750,yes,yes,no,unknown,Govt,116230,3
+708323208,45,F,5,Doctorate,Married,TX,91750,no,no,yes,unknown,Businessman,24058,1
+708324483,63,M,0,Unknown,Unknown,CA,91750,no,no,yes,cellular,Selfemployeed,61485,2
+708330858,51,F,2,Graduate,Married,TX,91750,no,no,no,unknown,Selfemployeed,1250,3
+708331758,42,F,3,"High School",Single,NY,91750,no,no,yes,telephone,Businessman,41112,3
+708332808,49,F,4,Uneducated,Married,TX,91750,no,no,no,cellular,Businessman,166923,2
+708334158,51,F,1,Uneducated,Single,NY,91750,yes,yes,no,unknown,White-collar,34512,2
+708337683,27,M,0,Graduate,Married,MI,91750,no,no,yes,cellular,Selfemployeed,42779,1
+708338958,42,M,2,"High School",Unknown,FL,91750,no,no,no,cellular,Blue-collar,42334,3
+708340758,53,M,3,Graduate,Single,NY,91750,yes,no,no,cellular,Businessman,111220,2
+708341958,48,M,4,Unknown,Married,TX,91750,no,yes,no,cellular,Blue-collar,64665,1
+708344358,44,F,4,"High School",Single,CA,91750,no,yes,yes,cellular,Selfemployeed,11638,2
+708347583,39,F,0,Graduate,Married,CA,91750,no,yes,no,unknown,Blue-collar,16112,2
+708354858,41,M,2,Graduate,Married,CA,91750,no,no,no,telephone,Businessman,111730,1
+708355683,46,F,4,Unknown,Single,NJ,91750,no,no,yes,unknown,Govt,34013,1
+708357183,38,F,4,Doctorate,Married,CA,91750,no,no,no,unknown,Businessman,38164,2
+708358683,56,F,1,Graduate,Married,TX,91750,yes,no,no,cellular,Selfemployeed,14975,1
+708360108,40,M,2,Uneducated,Single,TX,91750,no,yes,yes,cellular,Govt,82412,2
+708361833,55,F,3,Graduate,Single,CA,91750,no,yes,yes,unknown,White-collar,39861,2
+708367908,42,M,4,Graduate,Single,TX,91750,no,no,no,cellular,Blue-collar,60037,3
+708369633,47,M,2,Uneducated,Married,NY,91750,yes,no,no,telephone,Govt,101602,1
+708371733,50,M,1,"High School",Unknown,TX,91750,no,yes,no,cellular,Blue-collar,86281,2
+708373083,41,F,3,"High School",Married,TX,91750,yes,no,no,cellular,Blue-collar,20495,2
+708375858,45,F,4,Post-Graduate,Single,CA,91750,no,no,no,cellular,Govt,57624,1
+708376983,43,F,4,Graduate,Unknown,TX,91750,no,yes,no,cellular,Govt,21828,3
+708378108,42,M,2,Uneducated,Single,NJ,91750,yes,no,no,cellular,White-collar,71834,1
+708382083,35,F,1,Unknown,Married,TX,91750,no,no,no,cellular,Selfemployeed,30259,2
+708384033,45,F,1,"High School",Unknown,CA,91750,no,no,no,unknown,Blue-collar,28037,3
+708385533,54,M,1,Post-Graduate,Unknown,NY,91750,no,yes,no,cellular,Govt,119059,2
+708386958,42,F,5,Graduate,Married,GA,91750,yes,no,no,cellular,Blue-collar,19006,3
+708387933,37,M,3,"High School",Single,TX,91750,no,yes,yes,unknown,Businessman,165306,3
+708390633,49,M,2,"High School",Single,NY,91750,no,no,no,cellular,Retirees,53965,1
+708393633,36,M,3,Unknown,Single,CA,91750,yes,no,no,cellular,Retirees,71640,2
+708394908,55,F,3,Post-Graduate,Single,TX,91750,yes,yes,no,cellular,Selfemployeed,45818,1
+708396033,44,M,3,Unknown,Single,CA,91750,no,no,no,cellular,White-collar,119585,1
+708397008,45,F,3,"High School",Married,CA,91750,no,no,no,telephone,White-collar,57821,1
+708398283,41,F,3,"High School",Unknown,TX,91750,no,yes,no,unknown,Govt,12775,3
+708399858,45,M,3,Unknown,Married,CA,91750,no,yes,no,cellular,White-collar,76565,2
+708402333,57,M,3,Unknown,Single,NY,91750,yes,yes,yes,telephone,Govt,78127,3
+708403308,48,M,3,Uneducated,Single,CA,91750,no,no,no,cellular,Retirees,60111,2
+708404883,49,F,3,Unknown,Single,NY,91750,no,no,no,unknown,Blue-collar,32229,2
+708406083,57,M,2,Unknown,Single,CA,91750,no,yes,yes,unknown,Blue-collar,95876,2
+708412758,62,F,1,Unknown,Married,CA,91750,yes,yes,no,cellular,White-collar,23378,2
+708414033,45,F,3,Graduate,Single,NY,91750,no,yes,no,cellular,Blue-collar,41115,3
+708416433,53,F,4,Unknown,Single,NY,91750,no,yes,no,cellular,Blue-collar,28601,2
+708419733,44,M,3,Graduate,Married,TX,91750,no,yes,no,cellular,Blue-collar,76246,3
+708421833,54,F,2,"High School",Single,NY,91750,no,no,no,cellular,Selfemployeed,6550,2
+708423933,48,F,1,Doctorate,Married,IA,91750,no,no,no,cellular,Businessman,35491,2
+708426483,60,F,1,Uneducated,Married,CT,91750,yes,yes,no,cellular,Businessman,38451,3
+708427908,33,M,3,Graduate,Married,FL,91750,no,no,no,cellular,Blue-collar,72412,2
+708428958,57,M,3,Graduate,Single,FL,91750,yes,no,no,cellular,White-collar,118175,2
+708431433,41,F,2,Graduate,Married,CA,91750,no,no,no,telephone,Blue-collar,14633,3
+708433683,62,M,1,Graduate,Single,FL,91750,no,no,no,cellular,Govt,61002,2
+708434733,52,F,2,Unknown,Single,FL,91750,no,no,no,cellular,Blue-collar,10627,2
+708438033,41,M,4,"High School",Single,TX,91750,no,no,yes,telephone,Selfemployeed,30828,3
+708442158,42,F,4,Graduate,Married,CA,91750,yes,no,no,cellular,Businessman,42377,2
+708445608,44,F,4,Uneducated,Married,FL,91750,no,no,no,cellular,Blue-collar,20389,3
+708446808,51,F,3,"High School",Single,NY,91750,no,yes,no,cellular,Blue-collar,20281,3
+708447858,40,F,2,"High School",Married,MA,91750,yes,yes,no,cellular,Businessman,200276,2
+708450033,38,M,2,Unknown,Married,CA,91750,yes,no,no,cellular,Businessman,97684,3
+708451233,26,F,0,Graduate,Single,FL,91750,yes,no,no,cellular,Retirees,40785,2
+708453408,42,F,3,Graduate,Married,NY,91750,no,yes,no,cellular,Businessman,41039,2
+708455883,33,F,0,Graduate,Single,TX,91750,no,yes,no,cellular,Selfemployeed,6550,2
+708459633,45,F,5,Uneducated,Married,NY,91750,no,yes,yes,unknown,Selfemployeed,14975,2
+708462258,54,F,4,Graduate,Married,NJ,91750,no,no,no,cellular,Businessman,235349,2
+708469533,57,F,3,Uneducated,Single,FL,91750,no,yes,no,unknown,Selfemployeed,38273,3
+708472008,47,M,2,Graduate,Married,CA,91750,no,yes,yes,cellular,White-collar,105522,2
+708473133,44,M,5,Unknown,Married,CA,91750,yes,no,no,cellular,Govt,69787,3
+708474333,50,M,4,Graduate,Married,TX,91750,no,no,no,unknown,Blue-collar,108894,3
+708476808,55,F,1,Doctorate,Married,CA,91750,yes,yes,no,cellular,Selfemployeed,5525,3
+708478233,45,F,2,Uneducated,Married,NY,91750,no,yes,no,unknown,White-collar,58670,3
+708480333,65,F,0,Uneducated,Single,FL,91750,no,no,no,cellular,Govt,23891,3
+708482658,51,M,2,Graduate,Married,TX,91750,yes,no,yes,telephone,Businessman,219668,2
+708483708,39,M,2,Unknown,Married,NJ,91750,yes,no,no,cellular,Blue-collar,58122,3
+708486033,59,F,0,Doctorate,Single,CA,91750,yes,no,no,cellular,Retirees,15671,3
+708488208,45,F,3,Uneducated,Married,TX,91750,yes,yes,yes,cellular,Businessman,23898,3
+708489258,56,F,5,Doctorate,Single,TX,91750,yes,no,no,unknown,Retirees,38817,3
+708491508,46,F,3,Graduate,Married,NY,91750,no,yes,no,cellular,Businessman,43716,2
+708492558,56,F,2,Graduate,Single,CA,91750,no,no,no,cellular,Selfemployeed,6550,2
+708494583,48,F,5,Post-Graduate,Married,CA,91750,no,no,no,cellular,Selfemployeed,41132,3
+708496833,33,M,1,Graduate,Single,CA,91750,yes,yes,no,cellular,Govt,117520,2
+708498033,45,F,3,"High School",Married,FL,91750,no,yes,no,cellular,White-collar,32495,3
+708499608,43,F,4,Graduate,Single,NY,91750,no,no,no,cellular,Businessman,48566,2
+708500883,40,M,4,Unknown,Married,NY,91750,no,yes,no,cellular,Businessman,113841,2
+708501783,35,F,2,"High School",Single,FL,91750,yes,no,no,cellular,Blue-collar,17340,3
+708502908,48,F,2,Graduate,Married,NJ,91750,yes,no,no,cellular,Blue-collar,45372,2
+708504783,47,F,3,Uneducated,Married,IL,91750,no,yes,no,unknown,Retirees,37815,2
+708506508,52,M,1,Uneducated,Single,VA,91750,no,no,yes,cellular,Selfemployeed,83535,2
+708507483,55,M,4,Unknown,Single,NY,91750,no,no,no,cellular,Blue-collar,78913,3
+708508758,34,F,4,Uneducated,Single,TX,91750,yes,no,no,cellular,Selfemployeed,1250,3
+708510858,55,F,2,"High School",Single,CA,90025,no,no,no,unknown,Businessman,214404,2
+708511983,48,M,3,Graduate,Single,CA,91750,yes,yes,no,cellular,Retirees,45977,3
+708513183,40,F,5,"High School",Single,CA,91750,no,no,no,unknown,Selfemployeed,34616,3
+708514383,55,F,4,Uneducated,Married,FL,91750,no,yes,no,cellular,White-collar,57484,2
+708515358,45,F,4,"High School",Married,TX,91750,no,yes,no,cellular,Businessman,53906,2
+708516558,42,F,4,Graduate,Married,TX,91750,no,yes,no,cellular,Blue-collar,52148,3
+708519108,47,F,2,Unknown,Single,CA,91750,yes,yes,no,unknown,Businessman,20597,2
+708522033,36,F,1,Uneducated,Single,CA,91701,no,yes,no,cellular,Businessman,198343,3
+708525108,34,M,3,"High School",Married,FL,91750,no,no,no,cellular,Govt,50792,2
+708528483,44,F,2,Graduate,Unknown,FL,91750,no,no,no,cellular,Blue-collar,13010,2
+708532308,40,F,3,Unknown,Married,CA,91750,yes,yes,no,cellular,Govt,34149,2
+708534033,58,M,1,Unknown,Married,NJ,91750,no,yes,yes,cellular,Blue-collar,75578,2
+708535158,33,M,1,Graduate,Single,IA,91750,no,no,no,telephone,White-collar,114717,3
+708536283,36,F,2,Graduate,Single,NY,91750,no,no,no,cellular,Govt,31226,2
+708538608,50,F,2,Uneducated,Married,NJ,91750,no,no,yes,telephone,Retirees,48968,3
+708539583,51,F,1,Post-Graduate,Single,NY,91750,no,yes,no,cellular,Govt,46675,3
+708542283,38,M,1,Graduate,Single,CA,91750,yes,no,no,cellular,Selfemployeed,60253,2
+708543258,55,F,2,Doctorate,Single,CA,91750,yes,yes,no,cellular,Businessman,20631,2
+708545058,59,M,0,"High School",Single,NY,91750,yes,no,no,cellular,Govt,94345,2
+708549033,45,M,4,"High School",Married,CA,91750,no,no,no,unknown,Retirees,90458,2
+708551508,41,M,3,Uneducated,Married,CA,91750,no,no,no,cellular,Selfemployeed,87971,2
+708553008,49,M,4,Doctorate,Married,NJ,91750,yes,no,no,cellular,Govt,74928,1
+708555633,51,M,3,Uneducated,Married,CA,90025,no,no,no,unknown,Businessman,203890,2
+708557358,44,F,4,Graduate,Single,NY,91750,no,no,yes,cellular,Businessman,18357,2
+708558408,48,M,3,Unknown,Married,NY,91750,no,no,no,cellular,Selfemployeed,41925,3
+708559533,43,M,1,"High School",Married,TX,91750,yes,no,yes,cellular,Businessman,62768,2
+708560733,37,M,3,"High School",Single,CA,91750,no,yes,no,cellular,Govt,75192,3
+708563433,40,F,2,Uneducated,Married,FL,91750,no,no,no,unknown,Selfemployeed,14975,3
+708564858,54,M,2,Unknown,Married,FL,91750,no,yes,no,unknown,White-collar,118629,1
+708568983,53,M,3,Unknown,Married,FL,91750,no,yes,no,cellular,Govt,111225,3
+708572658,51,F,3,Graduate,Married,CA,90250,yes,no,no,cellular,Businessman,196200,1
+708573933,50,F,3,Post-Graduate,Single,IL,91750,yes,yes,no,cellular,Businessman,183118,2
+708575058,50,F,0,Post-Graduate,Married,TX,91750,yes,yes,no,cellular,Businessman,36188,3
+708577308,58,M,0,Graduate,Single,CA,91750,no,no,no,cellular,Selfemployeed,14975,2
+708579633,51,F,1,Doctorate,Married,TX,91750,no,yes,no,cellular,Blue-collar,13704,1
+708580908,41,F,2,Graduate,Married,TX,91750,yes,no,yes,cellular,Selfemployeed,12686,3
+708582858,47,F,1,Doctorate,Married,NY,91750,yes,no,no,cellular,Blue-collar,33801,2
+708584208,44,F,2,Graduate,Single,TX,91750,no,yes,no,cellular,Retirees,26226,2
+708585933,37,M,2,Unknown,Single,NY,91750,no,yes,no,cellular,Blue-collar,55576,1
+708588408,51,M,3,"High School",Married,CA,91750,yes,yes,no,cellular,Businessman,61579,3
+708590658,39,F,4,"High School",Single,CA,91750,yes,yes,no,cellular,Selfemployeed,14975,3
+708593883,35,F,0,Doctorate,Married,TX,91750,no,yes,no,unknown,White-collar,16316,3
+708595158,45,F,4,Uneducated,Married,CA,91750,yes,yes,no,cellular,Govt,26447,2
+708596283,56,F,3,Graduate,Single,FL,91750,yes,yes,no,unknown,Selfemployeed,32924,1
+708597558,49,M,5,Doctorate,Single,CA,91750,no,yes,yes,cellular,Blue-collar,45984,2
+708600033,55,M,2,Unknown,Single,NY,91750,no,yes,no,unknown,Businessman,87531,2
+708602283,47,F,4,Unknown,Married,CA,91750,yes,no,no,cellular,Govt,45701,1
+708606633,65,M,0,Graduate,Single,CA,91750,no,yes,no,cellular,White-collar,18114,3
+708611733,37,M,3,Doctorate,Single,FL,91750,no,yes,yes,cellular,Govt,73096,3
+708614058,40,M,3,Unknown,Single,NJ,91750,no,no,no,cellular,Govt,44044,1
+708615183,48,M,3,Graduate,Married,NJ,91750,no,yes,no,cellular,Govt,68693,3
+708618933,36,F,4,Graduate,Single,CA,91750,yes,no,no,unknown,Govt,35767,1
+708620283,48,F,2,Graduate,Single,NY,91750,yes,yes,no,unknown,White-collar,23554,1
+708621408,47,F,3,"High School",Single,NY,91750,yes,yes,no,cellular,Govt,52557,2
+708623283,31,F,0,Graduate,Single,NY,91750,yes,no,no,unknown,Blue-collar,21274,3
+708626058,53,M,3,Unknown,Married,NJ,91750,no,no,no,cellular,Govt,50213,3
+708633783,33,F,3,Graduate,Married,FL,91750,no,yes,no,cellular,Blue-collar,16244,2
+708635058,41,M,3,Graduate,Single,CA,91750,no,no,no,cellular,Govt,78702,2
+708637758,27,F,1,Unknown,Single,MI,91750,no,no,no,cellular,White-collar,38269,1
+708642708,28,M,0,Post-Graduate,Married,NJ,91750,yes,no,no,cellular,Selfemployeed,14975,3
+708644208,40,F,1,Uneducated,Married,CA,91750,no,no,no,telephone,Retirees,36638,1
+708646233,35,F,1,Uneducated,Married,NJ,91750,no,no,no,cellular,Blue-collar,39538,2
+708649683,51,F,3,Doctorate,Married,CA,90250,yes,yes,no,unknown,Businessman,214064,1
+708651933,56,F,1,Graduate,Single,CA,91750,yes,yes,no,unknown,White-collar,25413,2
+708652908,42,M,3,Uneducated,Single,TX,91750,no,no,no,cellular,White-collar,65425,2
+708653958,60,F,1,"High School",Single,TX,91750,yes,yes,yes,unknown,Businessman,30594,3
+708654933,27,F,1,"High School",Single,FL,91750,no,yes,no,unknown,White-collar,20322,1
+708655983,42,F,2,Graduate,Unknown,TX,91750,yes,yes,no,cellular,Blue-collar,12264,1
+708657033,38,F,1,Unknown,Married,NJ,91750,yes,no,no,cellular,White-collar,43330,2
+708660408,57,F,1,Graduate,Married,TX,91750,no,no,no,unknown,Businessman,27897,2
+708662583,53,M,1,Graduate,Single,NJ,91750,no,no,no,unknown,Businessman,113458,2
+708664008,39,F,0,"High School",Single,CA,91750,no,no,no,telephone,Selfemployeed,10286,1
+708665133,48,F,3,"High School",Single,NY,91750,yes,no,no,cellular,Businessman,47309,1
+708666258,49,F,4,Graduate,Married,CA,91750,no,no,no,unknown,Blue-collar,13305,2
+708668283,54,F,1,"High School",Single,FL,91750,no,yes,no,telephone,Blue-collar,16829,1
+708669408,32,M,2,"High School",Married,CA,91750,yes,yes,yes,cellular,Retirees,72173,2
+708670608,49,M,3,Doctorate,Married,FL,91750,no,yes,no,cellular,Govt,94093,2
+708671733,51,M,2,Doctorate,Single,NY,91750,no,yes,no,cellular,Blue-collar,50004,1
+708672708,43,F,5,Uneducated,Married,CA,91750,yes,yes,no,cellular,Businessman,46921,3
+708679383,53,F,3,Graduate,Married,NY,91750,yes,no,no,unknown,White-collar,15566,3
+708680583,50,M,1,Uneducated,Married,FL,91750,yes,yes,no,cellular,Businessman,86542,1
+708681708,49,F,4,Uneducated,Married,NY,91750,yes,no,no,cellular,Selfemployeed,19558,1
+708682908,42,M,2,Graduate,Married,TX,91750,no,yes,no,cellular,White-collar,115771,3
+708684108,48,F,3,Uneducated,Married,NY,91750,yes,no,no,cellular,Retirees,23705,1
+708687483,47,F,3,Graduate,Single,CA,91750,yes,yes,yes,cellular,Selfemployeed,14975,3
+708688608,48,F,3,Post-Graduate,Single,TX,91750,no,yes,no,unknown,Selfemployeed,14975,3
+708689958,31,M,1,Post-Graduate,Married,FL,91750,yes,yes,no,cellular,White-collar,76589,3
+708692583,43,F,1,"High School",Married,FL,91750,yes,yes,no,telephone,Blue-collar,25474,2
+708693558,51,M,2,"High School",Married,CA,91750,yes,yes,no,cellular,Govt,102868,3
+708694983,54,F,1,Graduate,Single,NY,91750,yes,no,no,cellular,Businessman,183156,2
+708697983,46,M,0,Graduate,Single,TX,91750,no,yes,no,unknown,White-collar,116731,2
+708699108,46,M,3,Graduate,Married,NY,91750,no,no,no,cellular,Blue-collar,83739,2
+708701358,37,M,3,"High School",Married,NJ,91750,yes,no,no,cellular,Businessman,47266,2
+708702258,41,F,1,Graduate,Married,FL,91750,no,no,no,cellular,White-collar,20731,2
+708703308,40,F,3,Graduate,Single,TX,91750,yes,no,no,cellular,Govt,23108,3
+708704433,52,F,1,Uneducated,Single,TX,91750,no,yes,no,cellular,White-collar,32691,3
+708705783,50,F,3,Uneducated,Married,NY,91750,no,no,no,cellular,White-collar,30977,2
+708706833,37,F,2,"High School",Single,FL,91750,yes,no,no,cellular,Selfemployeed,28042,3
+708707808,47,F,3,Graduate,Married,CA,91750,yes,no,yes,cellular,Blue-collar,37378,3
+708708858,32,F,0,Uneducated,Married,TX,91750,yes,yes,no,cellular,Blue-collar,29521,2
+708710283,49,F,2,"High School",Single,MA,91750,no,no,no,cellular,Businessman,49321,3
+708711483,26,F,0,Unknown,Single,MI,91750,no,no,no,cellular,Selfemployeed,14975,2
+708712833,38,M,5,Graduate,Single,FL,91750,no,no,no,cellular,Govt,64708,2
+708714108,38,F,3,Post-Graduate,Unknown,CA,91750,no,no,no,cellular,White-collar,17936,2
+708720558,57,M,1,"High School",Married,NY,91750,yes,no,no,telephone,Govt,41858,2
+708721533,39,M,1,"High School",Married,FL,91750,yes,no,no,cellular,White-collar,124810,2
+708722583,44,F,4,Graduate,Single,TX,91750,no,no,yes,cellular,Blue-collar,34283,3
+708723858,45,F,0,Graduate,Single,FL,91750,yes,no,no,cellular,Selfemployeed,43493,2
+708724908,38,F,3,Unknown,Married,FL,91750,no,yes,no,cellular,Govt,50635,3
+708726708,47,F,4,Uneducated,Single,UT,91750,no,no,no,cellular,Businessman,23265,3
+708727983,58,F,0,Doctorate,Single,CA,91750,yes,no,no,cellular,Blue-collar,34410,2
+708731658,31,F,0,Graduate,Married,NY,91750,no,yes,no,cellular,Selfemployeed,14975,2
+708733983,49,F,2,"High School",Single,CA,91750,no,yes,no,unknown,Blue-collar,21900,2
+708735183,51,F,2,Uneducated,Married,NY,91750,yes,no,yes,cellular,Blue-collar,24977,2
+708736608,40,F,4,Unknown,Married,IL,91750,no,yes,yes,cellular,Businessman,21586,2
+708740808,33,F,3,Graduate,Single,FL,91750,yes,yes,no,cellular,Blue-collar,33749,3
+708741633,44,F,3,Graduate,Single,TX,91750,no,yes,no,unknown,Retirees,15508,2
+708744933,43,F,4,Graduate,Single,NY,91750,no,yes,no,unknown,Govt,17205,2
+708745983,51,M,2,"High School",Married,NY,91750,no,no,no,cellular,Businessman,74175,2
+708747708,45,F,3,Graduate,Single,CA,91750,no,yes,yes,cellular,Retirees,28863,2
+708748833,46,M,2,Graduate,Married,TX,91750,no,no,no,telephone,Businessman,117419,3
+708753633,42,M,1,Graduate,Unknown,NY,91750,no,no,no,cellular,Blue-collar,63794,3
+708754833,51,M,3,Unknown,Married,NY,91750,yes,no,no,cellular,Govt,69537,2
+708757233,43,F,3,Graduate,Single,NY,91750,no,no,no,unknown,White-collar,40618,3
+708758658,51,M,2,Graduate,Married,NY,91750,no,yes,no,cellular,Businessman,45996,2
+708759408,48,F,3,Post-Graduate,Unknown,NY,91750,no,no,no,cellular,Businessman,201292,2
+708760458,45,F,3,Doctorate,Married,TX,91750,no,no,yes,cellular,Blue-collar,40495,3
+708761733,54,M,5,Graduate,Married,NY,91750,no,yes,no,telephone,Retirees,61406,2
+708765933,54,M,4,"High School",Single,CA,91750,no,yes,no,telephone,White-collar,82220,2
+708768258,47,M,3,Unknown,Married,FL,91750,yes,no,no,cellular,White-collar,73891,2
+708770883,49,M,4,Post-Graduate,Single,TX,91750,yes,yes,no,cellular,Businessman,209698,3
+708772308,37,F,3,"High School",Single,NY,91750,yes,no,no,unknown,Blue-collar,14434,2
+708773583,42,F,3,Graduate,Single,MA,91750,no,no,no,cellular,Selfemployeed,46820,2
+708774708,41,M,2,Uneducated,Single,TX,91750,yes,yes,no,cellular,Selfemployeed,43782,3
+708776658,46,M,2,Post-Graduate,Single,HI,91750,yes,no,no,cellular,Govt,62818,2
+708780783,44,M,5,Graduate,Single,CA,91750,no,no,no,cellular,Blue-collar,76257,2
+708784083,43,F,3,Graduate,Married,CA,91750,yes,no,yes,cellular,Selfemployeed,57111,3
+708784908,54,M,4,Unknown,Married,CA,91750,no,no,no,telephone,White-collar,62468,2
+708788583,52,F,2,Post-Graduate,Single,NY,91750,no,yes,no,unknown,Selfemployeed,14975,2
+708790833,36,F,4,Unknown,Married,NY,91750,no,yes,yes,unknown,Selfemployeed,9535,2
+708793008,50,F,1,Graduate,Married,NY,91750,yes,no,no,cellular,Govt,23521,2
+708794133,51,F,4,Doctorate,Married,NY,91750,yes,yes,yes,cellular,Govt,35416,3
+708796458,48,F,4,"High School",Married,CA,91750,no,no,no,telephone,Govt,34232,2
+708797583,45,F,3,Uneducated,Married,TX,91750,yes,yes,no,cellular,Govt,30135,3
+708798483,52,F,2,Uneducated,Married,FL,91750,yes,no,no,unknown,Businessman,29848,3
+708799983,47,F,4,Graduate,Married,NY,91750,yes,no,no,cellular,Selfemployeed,14975,3
+708801108,37,F,2,Graduate,Married,FL,91750,yes,no,no,cellular,Businessman,21709,3
+708804633,49,F,3,Uneducated,Single,TX,91750,no,yes,no,cellular,Govt,33335,2
+708805908,39,M,2,"High School",Married,NY,91750,no,no,no,cellular,White-collar,118475,2
+708807483,39,F,2,Unknown,Single,NY,91750,yes,no,no,cellular,Blue-collar,43340,2
+708809283,35,F,3,Unknown,Married,NY,91750,no,yes,no,unknown,Blue-collar,27044,2
+708811233,54,F,2,Graduate,Single,TX,91750,no,yes,no,cellular,Businessman,19789,2
+708812133,56,F,0,Graduate,Married,NY,91750,no,no,no,cellular,White-collar,50549,3
+708813033,44,F,4,"High School",Single,NY,91750,no,yes,yes,cellular,Blue-collar,13443,2
+708816408,32,F,1,Unknown,Married,TX,91750,yes,yes,no,unknown,Blue-collar,34492,2
+708817608,48,F,2,Uneducated,Married,NY,91750,no,no,no,cellular,Selfemployeed,53960,2
+708818508,39,F,4,Uneducated,Married,MA,91750,yes,no,no,telephone,Selfemployeed,59846,3
+708820308,49,F,2,Uneducated,Married,NY,91750,yes,no,no,unknown,Selfemployeed,11956,2
+708821733,44,M,5,Unknown,Single,AZ,90025,no,yes,no,cellular,Govt,113100,3
+708822783,50,M,3,"High School",Single,TX,91750,yes,yes,no,cellular,Selfemployeed,81981,3
+708823908,47,F,5,Doctorate,Married,FL,91750,no,no,no,cellular,Businessman,55237,2
+708824958,49,F,3,Unknown,Single,FL,91750,no,no,no,unknown,White-collar,55745,2
+708826158,50,M,3,"High School",Single,CA,91750,yes,yes,yes,unknown,Govt,115410,2
+708828258,36,F,2,Unknown,Married,FL,91750,no,no,no,cellular,Selfemployeed,11974,2
+708829758,62,F,1,"High School",Unknown,CA,91750,no,yes,no,cellular,Retirees,44199,3
+708831858,53,F,4,"High School",Married,AK,72023,yes,no,yes,unknown,Govt,18429,2
+708833133,44,F,2,"High School",Unknown,TX,91750,no,yes,yes,unknown,Blue-collar,20382,2
+708834483,60,F,1,Uneducated,Married,TX,91750,yes,no,yes,telephone,Businessman,15554,2
+708837858,45,M,2,Unknown,Single,NJ,91750,yes,no,no,cellular,Retirees,61806,1
+708838908,42,F,4,Uneducated,Single,NJ,91750,yes,no,no,telephone,Blue-collar,35361,3
+708841233,40,M,2,Graduate,Single,NY,91750,yes,no,no,cellular,Businessman,111748,3
+708846183,42,F,5,Graduate,Married,CA,91750,yes,yes,no,cellular,White-collar,47375,2
+708848208,29,M,0,Graduate,Married,WA,91750,no,no,no,cellular,Retirees,54203,1
+708849858,45,F,2,Graduate,Single,CA,91750,yes,no,no,cellular,Blue-collar,40306,3
+708856983,47,F,3,Doctorate,Unknown,TX,91750,no,yes,yes,unknown,Selfemployeed,1250,2
+708859158,54,F,3,Doctorate,Married,CA,91750,yes,no,yes,cellular,White-collar,58286,1
+708860358,39,F,3,Uneducated,Single,NY,91750,no,no,no,unknown,Selfemployeed,14975,2
+708862233,35,M,3,Doctorate,Married,TX,91750,no,yes,no,unknown,Blue-collar,94935,2
+708863733,39,F,3,Graduate,Married,FL,91750,no,no,no,unknown,White-collar,144470,1
+708864708,47,F,3,Unknown,Married,TX,91750,yes,yes,no,cellular,Blue-collar,13428,3
+708866133,53,M,4,Graduate,Married,TX,91750,yes,no,no,cellular,Businessman,173245,2
+708867408,62,F,0,Uneducated,Married,NY,91750,no,yes,yes,unknown,Businessman,20717,1
+708868233,48,F,2,Uneducated,Married,CA,91750,no,no,yes,unknown,Selfemployeed,2565,1
+708869283,64,M,0,Graduate,Single,FL,91750,no,yes,no,unknown,Selfemployeed,38381,3
+708870408,41,M,2,Post-Graduate,Married,TX,91750,no,yes,no,cellular,Businessman,55954,2
+708871158,61,F,0,"High School",Married,NJ,91750,no,no,no,unknown,Selfemployeed,38205,1
+708873183,36,M,1,Uneducated,Unknown,NY,91750,yes,no,no,cellular,Businessman,214196,1
+708874533,43,F,3,Graduate,Married,CA,91750,no,no,no,cellular,Selfemployeed,1250,2
+708876183,49,F,4,Doctorate,Married,TX,91750,yes,yes,no,cellular,Blue-collar,41046,2
+708877458,51,M,3,Graduate,Married,NY,91750,no,yes,no,cellular,Govt,110092,2
+708878508,51,F,0,Uneducated,Married,TX,91750,no,yes,no,cellular,Selfemployeed,14975,2
+708879483,51,M,3,Graduate,Married,NY,91750,no,yes,no,cellular,Retirees,89752,2
+708880683,52,M,2,Graduate,Married,CA,90025,yes,no,no,unknown,White-collar,138234,3
+708881583,47,M,3,"High School",Single,CA,91750,yes,no,no,cellular,White-collar,116501,2
+708884658,47,M,3,Uneducated,Married,CA,91750,no,no,no,cellular,Govt,79857,3
+708885558,55,F,1,Graduate,Married,FL,91750,no,yes,no,telephone,Govt,23755,2
+708886533,40,M,3,Graduate,Unknown,NY,91750,yes,no,no,cellular,Govt,58619,2
+708887433,40,F,3,Uneducated,Unknown,CA,91750,no,no,yes,cellular,Govt,35079,2
+708888633,48,F,4,Graduate,Single,NY,91750,yes,no,no,cellular,Businessman,31826,3
+708890133,40,M,4,"High School",Married,GA,91750,no,no,no,cellular,Retirees,73068,2
+708890958,39,F,2,Graduate,Single,TX,91750,yes,no,no,cellular,Retirees,54491,2
+708892833,55,F,3,Graduate,Unknown,NY,91750,no,yes,no,cellular,Selfemployeed,1250,2
+708894183,46,M,3,Graduate,Married,CA,91750,yes,no,no,cellular,White-collar,64783,2
+708895158,40,F,4,Uneducated,Married,NY,91750,yes,yes,no,cellular,Selfemployeed,12604,3
+708897408,42,M,3,"High School",Single,FL,91750,yes,no,no,cellular,Blue-collar,75347,3
+708899283,58,M,2,"High School",Single,CA,91750,yes,yes,no,telephone,Retirees,85352,2
+708900408,42,F,1,Doctorate,Married,NJ,91750,no,no,no,cellular,Retirees,59307,3
+708902883,60,F,0,Doctorate,Single,TX,91750,no,yes,no,unknown,Govt,36679,2
+708905733,49,M,3,Post-Graduate,Married,CA,91750,no,no,no,cellular,Selfemployeed,105037,3
+708907833,49,M,3,Unknown,Single,CA,91750,no,no,no,cellular,White-collar,108540,2
+708908883,56,M,2,Graduate,Single,CA,91750,no,yes,no,cellular,Businessman,119914,3
+708911508,48,F,1,Graduate,Married,TX,91750,no,yes,yes,cellular,White-collar,37495,2
+708913233,50,F,0,Graduate,Single,NY,91750,yes,yes,no,cellular,Govt,16076,2
+708916083,40,F,3,Uneducated,Married,TX,91750,no,yes,no,cellular,White-collar,28751,2
+708917133,44,M,4,Unknown,Married,FL,91750,yes,no,no,cellular,White-collar,65396,2
+708918558,26,F,0,Unknown,Married,NY,91750,yes,yes,no,cellular,Selfemployeed,34367,2
+708923658,48,M,3,"High School",Married,TX,91750,yes,yes,no,cellular,White-collar,63958,2
+708924783,46,F,4,Unknown,Single,NY,91750,no,no,no,cellular,White-collar,47867,3
+708927108,50,F,4,Uneducated,Married,CA,91750,yes,yes,yes,cellular,Selfemployeed,6550,3
+708928008,58,F,3,Graduate,Married,CA,91750,no,yes,no,cellular,Retirees,48210,3
+708928908,48,M,3,Graduate,Unknown,FL,91750,no,yes,no,unknown,White-collar,94220,1
+708931908,65,F,1,Uneducated,Single,NJ,91750,no,no,no,cellular,Selfemployeed,14975,2
+708937608,52,M,4,Uneducated,Married,FL,91750,no,no,no,cellular,Blue-collar,69882,2
+708938508,56,F,1,Graduate,Married,NY,91750,no,no,yes,cellular,Blue-collar,17366,1
+708942408,44,F,1,Uneducated,Married,FL,91750,no,yes,no,cellular,Businessman,237248,3
+708944958,48,M,2,Unknown,Unknown,FL,91750,no,no,no,cellular,Blue-collar,70868,2
+708946008,42,F,3,Unknown,Married,NY,91750,no,yes,yes,unknown,White-collar,27577,2
+708947208,43,F,2,"High School",Married,FL,91750,yes,no,no,unknown,Selfemployeed,31006,2
+708948483,46,M,4,"High School",Single,TX,91750,yes,yes,no,cellular,White-collar,114524,1
+708949908,37,F,2,Graduate,Married,FL,91750,no,no,yes,cellular,Businessman,21137,3
+708952758,46,M,5,Uneducated,Unknown,TX,91750,yes,yes,no,cellular,Businessman,83512,2
+708953883,59,F,0,Unknown,Married,TX,91750,no,yes,no,cellular,Selfemployeed,2565,3
+708957183,44,F,5,Post-Graduate,Married,CA,91750,yes,no,no,unknown,Selfemployeed,23360,2
+708959583,29,F,0,Post-Graduate,Single,CA,91750,no,yes,no,cellular,Businessman,37173,1
+708960858,50,M,2,Graduate,Single,FL,91750,no,no,no,telephone,Selfemployeed,78272,2
+708963258,37,M,3,"High School",Unknown,NY,91750,no,no,no,cellular,Businessman,114990,1
+708964683,50,M,2,Graduate,Married,NY,91750,no,yes,no,unknown,Businessman,172935,1
+708967608,50,F,4,Unknown,Married,NJ,91750,yes,yes,no,cellular,Selfemployeed,5525,1
+708968733,53,M,3,"High School",Married,NJ,91750,no,no,no,cellular,White-collar,109128,3
+708969633,47,M,1,Graduate,Married,NJ,91750,no,yes,no,cellular,Retirees,68004,3
+708971583,41,F,5,Post-Graduate,Married,CA,91750,no,no,no,cellular,Retirees,14897,2
+708972783,42,F,3,Graduate,Single,TX,91750,no,no,no,cellular,Retirees,25056,1
+708974283,55,F,2,Graduate,Single,FL,91750,yes,no,no,unknown,Businessman,212974,3
+708976908,45,F,3,Graduate,Married,NY,91750,no,no,no,cellular,White-collar,22074,2
+708980283,52,F,3,Uneducated,Single,TX,91750,no,yes,yes,cellular,Businessman,23048,2
+708982158,47,F,3,Uneducated,Single,NY,91750,yes,no,no,cellular,Businessman,185296,1
+708983658,38,F,2,Graduate,Single,TX,91750,yes,yes,no,unknown,Selfemployeed,5225,2
+708989358,41,M,2,Graduate,Single,TX,91750,no,yes,no,cellular,Selfemployeed,60076,2
+708992733,54,M,1,"High School",Married,CA,91750,yes,no,no,cellular,White-collar,77169,1
+708995283,37,M,2,Graduate,Married,TX,91750,no,no,no,cellular,Govt,82470,1
+708996708,49,F,3,"High School",Single,NV,91750,yes,yes,no,unknown,Businessman,219327,3
+708997833,30,M,0,Graduate,Married,IA,91750,yes,yes,no,cellular,Retirees,48602,1
+708998583,48,M,3,Uneducated,Single,TX,91750,no,yes,no,cellular,Selfemployeed,51569,1
+709000008,49,F,3,Uneducated,Married,CA,91750,no,no,no,unknown,Govt,21170,1
+709005633,51,F,3,"High School",Married,CA,91750,no,no,no,unknown,Blue-collar,21675,3
+709007883,45,M,4,"High School",Single,CA,90266,yes,no,no,unknown,White-collar,172725,1
+709008708,43,M,3,Unknown,Unknown,TX,91750,yes,no,no,unknown,Govt,113270,1
+709009833,48,M,1,Unknown,Married,NY,91750,no,no,no,cellular,Selfemployeed,71397,3
+709012083,51,F,3,"High School",Single,CA,91750,yes,no,no,unknown,Selfemployeed,20130,2
+709013208,45,F,4,Graduate,Single,FL,91750,yes,yes,no,cellular,Businessman,228930,1
+709014558,43,F,3,Unknown,Single,FL,91750,yes,yes,no,cellular,Govt,59739,2
+709015833,42,M,4,Uneducated,Married,CA,90291,no,no,no,cellular,White-collar,122030,3
+709017258,38,F,3,"High School",Married,FL,91750,yes,no,no,cellular,Blue-collar,33205,1
+709019283,46,M,3,Graduate,Single,NY,91750,no,yes,no,cellular,Blue-collar,108579,1
+709022883,50,F,2,Post-Graduate,Married,FL,91750,no,no,no,telephone,Govt,55531,3
+709025583,39,F,2,Unknown,Single,TX,91750,yes,yes,no,cellular,Selfemployeed,6550,1
+709028208,43,F,4,"High School",Unknown,NY,91750,no,no,no,cellular,Businessman,36669,2
+709029408,37,F,1,"High School",Single,FL,91750,yes,yes,no,cellular,Selfemployeed,14975,1
+709035708,56,F,2,Graduate,Single,TX,91750,no,yes,no,unknown,Govt,16430,3
+709039533,43,F,3,"High School",Single,FL,91750,no,yes,no,telephone,Selfemployeed,43162,2
+709040508,43,F,2,Graduate,Married,FL,91750,no,no,no,unknown,Govt,24111,2
+709042908,45,F,3,"High School",Married,TX,91750,yes,no,yes,cellular,Selfemployeed,23530,2
+709044183,47,F,3,Uneducated,Single,TX,91750,no,no,no,cellular,Blue-collar,47088,1
+709045683,43,M,4,"High School",Married,NY,91750,no,yes,no,cellular,White-collar,45314,3
+709046958,60,M,0,Uneducated,Single,CA,91750,yes,no,no,cellular,White-collar,117796,2
+709051533,43,M,3,Graduate,Married,CA,91750,yes,yes,no,cellular,Selfemployeed,87414,2
+709052883,45,M,4,Graduate,Single,CA,91750,no,no,no,cellular,White-collar,100498,1
+709054083,47,M,3,Graduate,Single,FL,91750,yes,no,no,cellular,White-collar,79546,1
+709056558,36,F,1,"High School",Single,CA,91750,yes,no,no,cellular,White-collar,19817,2
+709058808,50,F,2,Graduate,Single,NY,91750,no,no,no,telephone,Selfemployeed,14975,3
+709061658,47,M,2,Uneducated,Married,NY,91750,no,no,no,cellular,Govt,67532,1
+709064208,56,F,1,Uneducated,Married,FL,91750,yes,no,no,cellular,Selfemployeed,23748,3
+709065483,49,M,2,"High School",Married,NY,91750,yes,no,no,unknown,Businessman,108221,2
+709066983,43,F,2,Uneducated,Single,NY,91750,yes,yes,no,unknown,Businessman,206846,1
+709068183,47,M,2,"High School",Married,NY,91750,yes,yes,yes,cellular,White-collar,74888,1
+709071408,45,M,2,Graduate,Married,FL,91750,no,no,no,cellular,White-collar,86899,3
+709074108,56,F,3,Post-Graduate,Single,NY,91750,no,no,no,cellular,Govt,32487,1
+709075533,38,M,1,Doctorate,Single,IA,91750,yes,yes,no,cellular,White-collar,115365,3
+709077933,41,M,3,Post-Graduate,Married,NJ,91750,yes,no,no,cellular,Govt,63667,3
+709078908,53,M,1,Graduate,Married,TX,91750,yes,yes,yes,cellular,White-collar,85957,2
+709079883,42,F,4,"High School",Married,NY,91750,yes,yes,no,cellular,Retirees,31902,3
+709080783,41,M,3,Graduate,Single,NY,91750,no,no,no,cellular,Govt,75402,2
+709081683,54,F,1,"High School",Single,FL,91750,no,no,no,cellular,White-collar,53694,1
+709082808,38,M,2,Unknown,Single,NJ,91750,no,no,no,cellular,Businessman,92816,3
+709085358,44,F,4,Uneducated,Single,NY,91750,yes,no,no,unknown,Blue-collar,29488,2
+709086933,46,F,2,Unknown,Single,TX,91750,no,no,no,cellular,White-collar,53739,3
+709087983,54,M,2,Graduate,Married,CA,91750,yes,no,no,cellular,White-collar,90136,2
+709094358,49,M,3,Uneducated,Married,TX,91750,no,yes,no,cellular,Businessman,236628,1
+709096908,40,F,3,Graduate,Single,TX,91750,no,no,no,cellular,Retirees,17285,2
+709098108,52,M,2,Graduate,Married,TX,91750,no,yes,no,cellular,White-collar,76611,1
+709100283,41,F,3,Graduate,Married,NY,91750,no,yes,no,telephone,Blue-collar,32797,1
+709101258,53,F,3,Graduate,Married,NJ,91750,yes,yes,yes,cellular,Govt,23073,2
+709102458,57,F,1,Uneducated,Single,TX,91750,no,no,no,cellular,Blue-collar,30585,2
+709103358,41,F,4,Unknown,Single,TX,91750,yes,yes,no,unknown,Selfemployeed,6550,1
+709104333,29,F,1,"High School",Single,FL,91750,yes,no,no,unknown,Retirees,31487,2
+709106358,65,F,1,Unknown,Single,NY,91750,no,no,no,unknown,Selfemployeed,2565,2
+709108533,41,F,3,Post-Graduate,Single,FL,91750,no,yes,no,unknown,Businessman,201510,3
+709110633,48,F,4,Unknown,Married,FL,91750,yes,no,no,cellular,Blue-collar,11997,1
+709112508,29,F,2,Graduate,Married,FL,91750,yes,no,yes,cellular,Businessman,22762,2
+709117533,51,F,1,"High School",Single,NY,91750,yes,yes,no,cellular,Selfemployeed,14975,2
+709120008,59,M,0,Unknown,Single,TX,91750,no,yes,no,unknown,Blue-collar,10194,3
+709121283,35,F,2,Unknown,Married,TX,91750,no,yes,no,unknown,Selfemployeed,14975,1
+709122483,56,F,4,Unknown,Married,NY,91750,no,no,no,unknown,White-collar,18306,1
+709123908,46,M,2,Doctorate,Single,NJ,91750,no,no,no,cellular,Govt,82618,1
+709124883,50,M,2,Post-Graduate,Married,TX,91750,no,no,no,cellular,Govt,96537,1
+709126833,44,F,3,Unknown,Single,TX,91750,no,yes,no,cellular,Govt,50852,2
+709127808,42,F,4,Uneducated,Single,NY,91750,no,yes,no,cellular,Govt,38043,1
+709131033,65,M,0,Unknown,Single,CA,91750,no,no,no,cellular,White-collar,48929,3
+709134333,48,M,4,Doctorate,Unknown,CA,91750,yes,yes,yes,cellular,Businessman,73655,3
+709137558,50,M,3,Uneducated,Single,CA,91750,no,no,no,cellular,Govt,74271,3
+709140858,45,M,4,Graduate,Married,CA,91750,no,no,no,cellular,Blue-collar,93790,1
+709141908,54,F,4,Unknown,Single,NY,91750,yes,yes,no,telephone,Businessman,233762,3
+709143183,43,F,3,Uneducated,Single,NY,91750,no,no,no,cellular,Businessman,29424,3
+709145958,36,F,3,Uneducated,Unknown,MI,91750,yes,yes,no,cellular,Selfemployeed,14975,1
+709149408,57,F,3,Uneducated,Single,FL,91750,yes,no,no,cellular,Businessman,25885,3
+709150608,52,F,2,"High School",Married,CA,91750,no,no,no,cellular,Businessman,31030,3
+709153008,43,M,3,"High School",Single,FL,91750,no,yes,no,cellular,Businessman,74069,2
+709157133,47,F,5,Doctorate,Married,CA,91750,yes,no,no,unknown,Selfemployeed,14975,1
+709158333,48,M,3,Unknown,Single,NY,91750,no,no,no,cellular,Blue-collar,55000,2
+709159308,53,F,2,"High School",Married,FL,91750,no,no,no,cellular,Businessman,235821,1
+709161108,46,F,3,Graduate,Married,CA,91750,no,no,no,cellular,Selfemployeed,14975,1
+709163358,50,F,1,Unknown,Single,NY,91750,no,yes,no,unknown,Selfemployeed,14975,3
+709164408,48,F,4,"High School",Single,TX,91750,yes,yes,yes,cellular,Selfemployeed,1250,3
+709165533,39,M,3,Uneducated,Married,NY,91750,no,yes,no,cellular,Businessman,57981,3
+709166883,45,F,4,Graduate,Single,FL,91750,yes,no,no,cellular,White-collar,50812,2
+709169133,48,M,3,Uneducated,Single,NY,91750,yes,no,no,cellular,Businessman,47113,2
+709170108,52,F,2,Graduate,Single,CA,91750,yes,no,no,unknown,Selfemployeed,14975,1
+709171308,41,M,2,Graduate,Single,NY,91750,yes,no,yes,unknown,White-collar,126358,2
+709173108,47,F,1,Graduate,Single,FL,91750,no,yes,no,unknown,Selfemployeed,2565,3
+709175208,44,M,2,Post-Graduate,Married,NY,91750,no,no,yes,unknown,White-collar,74162,3
+709176108,52,M,2,Graduate,Unknown,TX,91750,no,yes,no,cellular,White-collar,69680,2
+709178733,45,F,5,Unknown,Single,CA,91750,no,no,no,unknown,Govt,24804,2
+709179708,38,F,2,Doctorate,Single,NY,91750,no,no,no,unknown,Businessman,39397,3
+709183683,44,F,2,Unknown,Married,NY,91750,yes,yes,no,cellular,Govt,19461,2
+709185108,48,F,3,Unknown,Single,TX,91750,no,yes,no,cellular,Govt,16051,1
+709186983,57,F,3,Graduate,Single,NY,91750,no,yes,no,cellular,Selfemployeed,14975,2
+709188108,54,F,3,"High School",Married,NY,91750,yes,no,no,cellular,Businessman,146660,1
+709192233,54,F,4,Unknown,Married,CA,91750,yes,no,no,cellular,Selfemployeed,15342,1
+709198158,34,F,0,Graduate,Single,TX,91750,yes,yes,no,cellular,Selfemployeed,14975,2
+709199358,40,F,1,"High School",Married,TX,91750,no,no,no,cellular,Selfemployeed,14975,2
+709200633,48,M,5,Graduate,Married,TX,91750,no,no,no,cellular,White-collar,99344,3
+709204158,46,F,4,Uneducated,Married,NJ,91750,no,no,no,cellular,Selfemployeed,25795,2
+709206333,36,F,2,Uneducated,Single,NY,91750,yes,no,yes,cellular,Selfemployeed,14975,1
+709207458,40,F,3,Uneducated,Single,CA,91750,no,yes,no,cellular,Selfemployeed,12150,3
+709208808,47,M,2,"High School",Single,TX,91750,no,yes,no,cellular,Govt,56113,3
+709210833,48,M,3,Uneducated,Married,NJ,91750,yes,no,no,cellular,White-collar,151385,1
+709212183,54,F,3,Uneducated,Single,NJ,91750,yes,yes,no,cellular,Selfemployeed,14975,1
+709213458,38,M,0,"High School",Single,CA,91750,no,yes,no,cellular,Businessman,108560,3
+709214358,44,F,4,"High School",Married,NJ,91750,no,no,no,cellular,Blue-collar,12484,1
+709215708,36,M,4,Uneducated,Married,NY,91750,no,no,no,unknown,Businessman,41222,1
+709216533,46,F,1,Unknown,Unknown,CA,91750,no,yes,yes,cellular,White-collar,35029,3
+709217358,45,F,3,Uneducated,Single,CA,91750,no,no,no,cellular,Selfemployeed,14975,2
+709219533,49,F,3,"High School",Married,TX,91750,yes,yes,no,unknown,Blue-collar,12398,2
+709220583,47,F,5,Post-Graduate,Married,TX,91750,no,no,no,cellular,Retirees,24338,1
+709222008,59,F,0,Graduate,Single,FL,91750,no,no,yes,cellular,Businessman,27171,3
+709224033,62,F,0,"High School",Married,CA,91750,no,no,no,cellular,Blue-collar,16583,2
+709224858,33,F,2,"High School",Single,NV,91750,yes,no,no,cellular,Selfemployeed,14975,3
+709225758,40,M,3,"High School",Single,FL,91750,no,yes,yes,cellular,Businessman,112181,3
+709227033,45,F,4,Uneducated,Married,CA,91750,yes,yes,no,cellular,Blue-collar,48097,3
+709229358,57,M,3,Graduate,Married,NY,91750,no,no,no,cellular,Selfemployeed,80158,2
+709230708,49,F,2,Graduate,Married,TX,91750,no,yes,no,cellular,Selfemployeed,14885,2
+709231683,46,M,3,Graduate,Unknown,NY,91750,no,yes,no,cellular,White-collar,81941,2
+709232808,52,F,0,Graduate,Married,NY,91750,yes,yes,no,cellular,Selfemployeed,14975,2
+709235058,56,M,1,Graduate,Married,NJ,91750,no,no,no,cellular,Govt,110205,2
+709236633,31,M,0,Graduate,Married,NJ,91750,yes,no,no,cellular,Selfemployeed,48135,3
+709238358,41,M,4,Graduate,Married,CA,91750,no,no,no,cellular,Businessman,105397,2
+709239483,43,M,3,"High School",Married,CA,91750,no,no,no,cellular,Blue-collar,71505,3
+709243533,43,M,2,Post-Graduate,Married,TX,91750,no,no,no,cellular,Retirees,68405,2
+709245783,45,M,5,Uneducated,Married,TX,91750,yes,no,no,cellular,White-collar,67969,1
+709246683,43,F,1,Unknown,Single,WA,53022,no,no,no,cellular,Blue-collar,39299,2
+709247808,33,M,1,Post-Graduate,Married,NJ,91750,yes,no,no,cellular,Businessman,154909,1
+709249083,39,M,3,"High School",Single,TX,91750,no,yes,no,unknown,Businessman,116281,1
+709250508,34,M,1,Graduate,Married,NJ,91750,no,no,yes,cellular,Retirees,82748,3
+709253433,38,F,3,Unknown,Single,NJ,91750,no,yes,no,cellular,Blue-collar,27728,1
+709257708,49,F,3,"High School",Single,CA,90660,yes,no,no,cellular,Businessman,191977,2
+709259958,49,M,3,Graduate,Single,TX,91750,no,no,no,cellular,Businessman,118266,2
+709261383,42,M,1,Uneducated,Unknown,CA,91750,yes,no,yes,telephone,Govt,88043,3
+709265208,39,M,4,"High School",Married,NY,91750,no,no,no,cellular,Govt,61646,3
+709267308,57,F,3,Uneducated,Single,TX,91750,yes,no,no,cellular,Selfemployeed,14975,1
+709269708,49,M,4,Graduate,Married,NY,91750,no,yes,yes,cellular,White-collar,102442,2
+709272333,29,M,1,Unknown,Single,CA,91750,yes,yes,no,cellular,White-collar,69450,3
+709273383,58,F,1,Uneducated,Unknown,FL,91750,yes,no,yes,cellular,Govt,51415,1
+709274583,52,M,3,Uneducated,Single,CA,91750,no,yes,yes,cellular,Selfemployeed,79177,2
+709275558,42,M,3,Doctorate,Single,NY,91750,no,yes,yes,cellular,Selfemployeed,54781,3
+709276908,50,F,1,Graduate,Single,NY,91750,no,yes,no,unknown,White-collar,46944,3
+709278258,39,F,2,"High School",Married,FL,91750,yes,yes,no,cellular,Selfemployeed,5525,3
+709279608,53,F,3,Uneducated,Married,CA,91750,yes,no,no,cellular,Blue-collar,42598,3
+709283358,26,F,0,Graduate,Single,NY,91750,no,no,no,telephone,Govt,28166,2
+709284333,60,M,0,Graduate,Unknown,FL,91750,no,no,no,cellular,Selfemployeed,29518,2
+709285683,39,M,1,Unknown,Married,CA,91750,no,no,no,cellular,Selfemployeed,65886,2
+709288383,36,F,1,Graduate,Single,FL,91750,no,yes,no,cellular,Blue-collar,25883,1
+709289358,46,F,2,Graduate,Married,FL,91750,no,yes,no,cellular,Businessman,35606,3
+709296558,44,M,3,Post-Graduate,Married,CA,91750,yes,yes,no,cellular,Retirees,98582,2
+709297608,50,F,1,Doctorate,Married,FL,91750,yes,no,no,unknown,Selfemployeed,14975,2
+709300458,52,F,3,"High School",Married,NY,91750,no,no,no,cellular,White-collar,48447,3
+709306983,38,M,3,Graduate,Married,NJ,91750,no,no,no,cellular,Blue-collar,75375,2
+709307808,33,F,2,Graduate,Married,CA,91750,no,yes,no,unknown,Govt,28724,1
+709309308,34,F,2,Graduate,Single,CA,91750,yes,yes,yes,cellular,Selfemployeed,14975,3
+709310433,61,M,0,Graduate,Married,CA,91750,yes,no,no,cellular,Retirees,64573,1
+709311633,48,M,3,Graduate,Married,TX,91750,yes,yes,yes,cellular,Blue-collar,10072,1
+709314408,59,M,1,Graduate,Married,NY,91750,no,no,no,cellular,Govt,66401,2
+709315383,38,M,3,"High School",Single,TX,91750,yes,yes,no,cellular,White-collar,132948,3
+709316433,62,F,0,"High School",Single,NY,91750,no,no,yes,cellular,Selfemployeed,14975,2
+709319658,49,M,5,"High School",Married,CA,91750,yes,no,no,telephone,Businessman,106278,3
+709321908,48,F,2,Graduate,Married,TX,91750,yes,no,no,cellular,Selfemployeed,14975,1
+709326183,49,F,5,Uneducated,Married,NY,91750,yes,yes,no,unknown,Selfemployeed,37517,2
+709327383,30,M,2,Graduate,Married,TX,91750,no,yes,no,unknown,Blue-collar,10008,2
+709328733,54,F,3,"High School",Married,CA,91750,no,no,no,cellular,Blue-collar,10764,1
+709329558,37,M,2,Graduate,Single,NY,91750,yes,yes,no,cellular,Blue-collar,68895,2
+709330383,65,F,0,Unknown,Single,TX,91750,no,yes,no,cellular,Selfemployeed,35984,3
+709332408,43,M,3,Graduate,Single,FL,91750,no,yes,no,cellular,White-collar,132609,3
+709333608,41,M,3,Uneducated,Married,NJ,91750,yes,no,no,telephone,Blue-collar,88654,2
+709334658,61,F,0,"High School",Married,TX,91750,no,no,no,cellular,Blue-collar,20360,1
+709335558,59,F,0,Unknown,Married,TX,91750,no,yes,no,cellular,Govt,36712,3
+709338633,46,F,1,Uneducated,Unknown,NY,91750,no,yes,no,unknown,Selfemployeed,14975,1
+709339758,40,F,4,"High School",Married,TX,91750,no,yes,no,cellular,White-collar,42026,3
+709343433,43,F,3,Graduate,Unknown,FL,91750,yes,no,no,cellular,White-collar,43336,2
+709345008,52,F,1,Graduate,Married,TX,91750,yes,no,no,unknown,Selfemployeed,2565,1
+709346133,48,F,2,Graduate,Married,CA,91750,no,no,yes,unknown,Selfemployeed,11151,3
+709350783,53,M,2,Graduate,Single,CA,91750,no,no,no,telephone,Selfemployeed,74991,2
+709361058,45,F,2,Doctorate,Single,FL,91750,no,no,no,cellular,Selfemployeed,14975,3
+709362033,58,F,0,Post-Graduate,Married,NV,91750,no,no,no,cellular,Selfemployeed,24276,2
+709363383,39,F,1,Graduate,Single,CA,91750,no,no,yes,cellular,Retirees,31220,1
+709364433,47,F,4,Post-Graduate,Single,CA,91750,yes,no,no,cellular,Selfemployeed,14975,2
+709365483,35,M,2,"High School",Married,WA,91750,yes,yes,no,cellular,Retirees,62584,2
+709366458,43,F,4,Graduate,Married,NJ,91750,no,no,no,unknown,Retirees,19471,2
+709367433,33,F,1,Graduate,Single,NJ,91750,no,yes,yes,cellular,Retirees,24410,3
+709368483,43,M,0,Post-Graduate,Single,TX,91750,no,no,no,cellular,Retirees,57805,1
+709372608,51,M,0,Graduate,Single,MO,91750,no,yes,no,cellular,Retirees,103164,3
+709373883,54,M,3,Doctorate,Married,FL,91750,yes,yes,no,cellular,Businessman,199733,1
+709375158,49,M,1,Graduate,Married,FL,91750,no,no,no,cellular,Businessman,41660,3
+709376508,62,F,2,Graduate,Married,FL,91750,no,no,no,cellular,Businessman,16402,1
+709379283,57,F,0,Doctorate,Married,CA,91750,no,no,no,unknown,Selfemployeed,14975,3
+709380333,55,F,1,Post-Graduate,Married,TX,91750,no,no,no,cellular,Selfemployeed,14975,1
+709381383,45,F,3,Graduate,Married,CA,91750,no,no,no,cellular,Businessman,43175,3
+709382958,56,F,4,Graduate,Single,TX,91750,no,yes,no,unknown,Selfemployeed,5525,3
+709383933,41,M,0,"High School",Single,NY,91750,yes,yes,no,cellular,White-collar,111178,1
+709385133,41,M,4,Graduate,Married,FL,91750,no,yes,no,cellular,Businessman,217884,2
+709388058,45,M,3,Graduate,Single,FL,91750,no,no,no,cellular,Govt,84874,2
+709389558,41,M,3,Uneducated,Married,NY,91750,no,yes,no,unknown,White-collar,72341,3
+709397508,53,F,4,"High School",Married,FL,91750,no,no,no,cellular,Businessman,222514,1
+709398708,49,F,1,"High School",Single,TX,91750,yes,no,no,cellular,Businessman,226745,2
+709399908,52,M,2,Graduate,Single,FL,91750,no,no,no,unknown,Businessman,194461,1
+709405758,47,F,2,"High School",Married,NY,91750,no,no,no,cellular,Selfemployeed,19322,3
+709406733,50,M,3,Graduate,Married,NY,91750,no,no,no,unknown,White-collar,127601,2
+709407933,30,M,1,"High School",Married,NY,91750,no,no,yes,cellular,Govt,67976,2
+709408983,52,M,1,"High School",Single,TX,91750,no,yes,no,cellular,Businessman,92226,3
+709410033,56,F,3,Graduate,Married,CA,91010,no,yes,no,unknown,Businessman,190928,1
+709411383,41,F,3,Graduate,Single,CA,91750,yes,no,no,cellular,White-collar,56159,1
+709413933,50,F,3,Graduate,Single,CO,91750,no,no,no,unknown,Blue-collar,18493,3
+709415583,38,M,2,Unknown,Unknown,CA,91750,yes,no,yes,cellular,White-collar,65003,3
+709418508,49,M,2,"High School",Married,NY,91750,yes,yes,no,unknown,Businessman,104397,2
+709422183,49,F,4,Uneducated,Married,FL,91750,no,yes,no,telephone,Blue-collar,15736,3
+709423158,45,F,4,Uneducated,Unknown,CA,91750,no,no,no,cellular,Blue-collar,39143,2
+709426608,60,F,0,Graduate,Married,TX,91750,no,yes,no,unknown,Blue-collar,25163,3
+709429533,47,F,4,Doctorate,Single,TX,91750,no,yes,yes,cellular,Businessman,20658,3
+709430508,38,F,1,Post-Graduate,Single,CA,91750,no,yes,yes,cellular,White-collar,17077,2
+709432833,50,M,1,Post-Graduate,Unknown,TX,91750,no,no,no,cellular,Selfemployeed,81810,3
+709434408,56,M,2,"High School",Married,CA,91750,yes,no,no,unknown,Govt,114195,2
+709435533,49,F,4,Unknown,Single,TX,91750,no,no,no,unknown,Blue-collar,13302,2
+709436883,53,M,3,Uneducated,Married,FL,91750,no,yes,no,cellular,Selfemployeed,89428,2
+709443633,63,M,0,"High School",Married,VA,91750,no,yes,no,cellular,Retirees,77576,2
+709444983,42,F,4,Graduate,Single,NJ,91750,yes,yes,no,cellular,Blue-collar,14548,1
+709446783,38,F,2,Graduate,Married,NY,91750,no,yes,no,cellular,Selfemployeed,12692,3
+709447908,45,F,2,Post-Graduate,Single,FL,91750,yes,yes,no,unknown,Retirees,35917,1
+709449333,62,F,0,Doctorate,Married,NJ,91750,no,no,no,cellular,Businessman,50156,2
+709451508,48,F,4,Graduate,Single,NY,91750,yes,yes,no,unknown,Selfemployeed,8250,2
+709452633,50,F,2,Graduate,Married,FL,91750,yes,yes,no,cellular,White-collar,20387,3
+709453833,44,M,3,Graduate,Married,FL,91750,yes,no,no,unknown,White-collar,54352,3
+709455108,60,F,0,"High School",Single,FL,91750,no,no,no,cellular,Selfemployeed,41798,2
+709459608,39,M,3,"High School",Married,TX,91750,no,yes,no,cellular,Govt,98780,3
+709460883,44,F,3,Graduate,Married,NY,91750,yes,no,no,unknown,Businessman,27469,1
+709465758,43,F,3,Doctorate,Married,NY,91750,yes,no,yes,cellular,Selfemployeed,2565,1
+709467183,42,M,3,Uneducated,Married,TX,91750,no,no,yes,unknown,Businessman,204097,2
+709468683,56,F,3,"High School",Unknown,MN,91750,no,yes,no,unknown,Retirees,15052,1
+709469658,42,M,3,Graduate,Single,MA,91750,no,no,no,cellular,Govt,58888,2
+709470858,38,F,3,Unknown,Single,NY,91750,yes,no,no,unknown,Blue-collar,12527,2
+709473708,59,M,0,Graduate,Single,TX,91750,yes,no,no,unknown,Selfemployeed,15643,3
+709474683,35,M,3,"High School",Single,FL,91750,yes,yes,no,cellular,Govt,114417,2
+709476033,40,M,3,Unknown,Married,NY,91750,no,no,no,cellular,Businessman,157062,2
+709477233,43,F,3,Graduate,Married,FL,91750,yes,yes,no,cellular,Businessman,56489,2
+709479558,44,F,1,Graduate,Unknown,TX,91750,no,yes,no,unknown,Selfemployeed,34598,3
+709482633,46,M,3,Graduate,Married,CA,91750,yes,yes,no,unknown,Retirees,98786,2
+709485033,37,F,3,Unknown,Single,FL,91750,no,yes,no,unknown,Selfemployeed,14975,2
+709486158,35,M,1,Unknown,Single,NJ,91750,yes,no,no,cellular,Selfemployeed,67052,3
+709487058,29,F,1,"High School",Married,NY,91750,no,no,no,unknown,Selfemployeed,41050,2
+709488108,53,F,2,"High School",Married,FL,91750,yes,yes,no,cellular,Selfemployeed,16788,3
+709493283,51,F,3,Graduate,Single,FL,91750,no,no,no,unknown,Selfemployeed,11346,2
+709494483,42,F,3,Unknown,Single,NY,91750,yes,yes,no,cellular,Selfemployeed,14975,2
+709495833,54,F,2,"High School",Married,TX,91750,yes,no,no,cellular,White-collar,18923,3
+709497108,40,M,2,Graduate,Married,CA,91750,no,yes,no,cellular,Govt,114022,3
+709500183,29,F,2,Unknown,Single,FL,91750,yes,no,no,cellular,Blue-collar,21202,2
+709501683,50,F,2,Post-Graduate,Single,CA,91750,yes,no,no,unknown,White-collar,24431,2
+709505808,63,F,0,Unknown,Married,NY,91750,no,no,yes,cellular,White-collar,18462,2
+709513458,57,F,2,Uneducated,Single,FL,91750,yes,yes,no,unknown,Selfemployeed,35570,2
+709514433,53,M,3,"High School",Married,TX,91750,no,no,yes,cellular,Businessman,127012,3
+709516458,49,F,3,Graduate,Married,FL,91750,yes,yes,no,cellular,White-collar,31821,2
+709518858,48,M,3,Uneducated,Married,NY,91750,no,yes,no,unknown,Blue-collar,84042,2
+709520058,47,F,2,Graduate,Single,TX,91750,no,no,no,cellular,Govt,20395,2
+709523508,45,M,2,"High School",Married,NY,91750,no,yes,yes,cellular,Govt,80243,3
+709528308,29,F,0,Graduate,Married,CA,91750,no,yes,no,unknown,Selfemployeed,17580,2
+709530408,55,M,2,Graduate,Married,NJ,91750,no,yes,no,cellular,Govt,109942,2
+709531908,47,F,5,Unknown,Married,CA,91750,yes,no,no,cellular,Blue-collar,23138,2
+709534083,39,F,2,Graduate,Single,FL,91750,no,yes,yes,cellular,Selfemployeed,16967,3
+709536483,45,F,2,Graduate,Married,CA,91750,no,no,no,unknown,Blue-collar,19938,3
+709537683,44,F,4,Unknown,Married,CA,91750,yes,no,no,cellular,Selfemployeed,1250,3
+709541433,61,F,1,Graduate,Married,CA,91750,no,yes,no,cellular,Selfemployeed,14975,2
+709545333,45,F,4,Graduate,Married,AR,85260,no,no,no,unknown,Govt,26989,2
+709546608,43,M,2,Graduate,Married,CA,91750,no,no,no,cellular,White-collar,78976,3
+709547658,48,F,5,Graduate,Single,NY,91750,yes,no,no,cellular,Selfemployeed,2565,2
+709548783,53,F,2,Doctorate,Married,NY,91750,no,yes,no,cellular,Selfemployeed,21500,3
+709550958,65,M,0,Doctorate,Married,FL,91750,no,yes,no,telephone,Selfemployeed,31525,3
+709554483,40,F,1,"High School",Married,NJ,91750,no,no,no,unknown,Selfemployeed,14975,2
+709556208,50,M,1,Graduate,Married,NJ,91750,no,no,no,cellular,Selfemployeed,105206,2
+709558608,62,M,1,Graduate,Single,NY,91750,no,no,no,cellular,Govt,102969,3
+709560258,26,M,0,Graduate,Single,NJ,91750,no,no,no,cellular,Blue-collar,23994,3
+709562358,59,M,0,"High School",Single,NY,91750,no,no,no,cellular,Selfemployeed,63416,2
+709563258,51,F,2,Unknown,Married,TX,91750,no,no,no,telephone,Selfemployeed,21594,2
+709564683,44,F,3,Graduate,Unknown,CA,91750,no,yes,yes,cellular,Selfemployeed,2565,2
+709566408,45,M,4,Graduate,Single,CA,91750,yes,no,no,cellular,Govt,119115,2
+709567758,44,F,4,Post-Graduate,Married,CA,91750,no,yes,yes,cellular,Blue-collar,36490,2
+709571958,49,M,0,Unknown,Married,FL,91750,yes,no,no,cellular,Govt,60454,3
+709573533,39,M,2,Uneducated,Single,CA,91750,no,no,no,cellular,Businessman,45167,3
+709575858,52,M,2,Graduate,Married,TX,91750,no,yes,no,cellular,Retirees,66923,3
+709578258,55,F,1,Graduate,Single,NJ,91750,yes,no,no,cellular,Businessman,162342,3
+709579383,39,F,4,Unknown,Single,CA,91750,no,yes,no,cellular,Blue-collar,12487,3
+709581483,35,F,3,Graduate,Single,TX,91750,yes,yes,no,unknown,Blue-collar,26315,3
+709583133,45,F,3,Graduate,Married,NY,91750,yes,yes,no,unknown,Selfemployeed,14975,2
+709584483,42,F,4,"High School",Married,TX,91750,yes,yes,no,unknown,Retirees,16153,3
+709585758,37,M,4,Uneducated,Married,FL,91750,no,yes,no,cellular,Retirees,47348,2
+709587783,42,M,3,Uneducated,Single,NY,91750,no,no,no,cellular,Retirees,48157,2
+709589208,52,F,3,Graduate,Single,TX,91750,no,no,yes,cellular,Businessman,167572,3
+709591533,49,F,3,Graduate,Married,NY,91750,yes,no,no,cellular,Businessman,37733,2
+709592808,57,M,4,Graduate,Single,TX,91750,no,yes,no,cellular,Businessman,170387,2
+709596783,44,M,2,Graduate,Married,TX,91750,yes,yes,no,cellular,Govt,62843,2
+709597983,34,F,3,"High School",Single,CA,91750,yes,no,no,unknown,White-collar,36592,3
+709603608,54,M,2,Uneducated,Married,FL,91750,no,yes,no,cellular,White-collar,72070,3
+709604958,65,F,0,Unknown,Single,NY,91750,no,yes,no,cellular,Blue-collar,37823,3
+709606158,51,M,4,"High School",Married,NY,91750,no,no,no,cellular,White-collar,82839,2
+709607733,48,M,5,"High School",Married,IL,91750,yes,no,no,cellular,Blue-collar,56172,2
+709608708,47,M,5,Unknown,Single,CA,91750,no,yes,no,cellular,White-collar,118954,2
+709610283,48,M,4,"High School",Single,NY,91750,no,yes,no,cellular,Blue-collar,67985,2
+709611183,53,M,4,Graduate,Single,TX,91750,no,yes,no,cellular,Govt,112375,3
+709612983,48,F,1,Unknown,Single,CA,91750,yes,yes,no,cellular,Selfemployeed,24518,3
+709614333,60,M,1,Unknown,Married,TX,91750,no,no,yes,telephone,Selfemployeed,72542,2
+709615458,41,M,2,Uneducated,Single,NY,91750,no,yes,no,cellular,Businessman,195667,3
+709616958,51,F,2,Post-Graduate,Married,UT,91750,yes,yes,no,cellular,Govt,35285,2
+709618308,44,F,2,Uneducated,Married,TX,91750,yes,yes,no,cellular,Govt,43432,2
+709619433,39,M,4,Uneducated,Married,CA,91750,yes,no,no,telephone,Govt,115362,3
+709621008,45,M,3,Graduate,Single,CA,91750,yes,no,yes,cellular,Selfemployeed,51333,3
+709623483,56,F,3,Unknown,Single,TX,91750,yes,no,no,cellular,Selfemployeed,11202,2
+709624533,60,F,1,Graduate,Single,NJ,91750,no,no,no,unknown,Selfemployeed,14975,3
+709625733,63,M,1,Graduate,Single,CA,91750,no,no,no,cellular,Selfemployeed,71328,2
+709626858,50,M,1,"High School",Single,FL,91750,yes,no,no,cellular,Businessman,54124,3
+709627983,36,M,3,Uneducated,Married,FL,91750,no,no,no,cellular,White-collar,65361,2
+709632483,45,M,3,Graduate,Married,FL,91750,yes,no,no,cellular,Businessman,63474,3
+709633533,54,F,1,Graduate,Single,CA,91750,no,no,no,cellular,White-collar,32490,3
+709635858,40,F,4,Graduate,Married,NY,91750,no,yes,no,telephone,Selfemployeed,10384,2
+709638783,53,F,2,Graduate,Married,CA,91750,no,yes,no,cellular,Retirees,48948,2
+709641933,45,M,4,Graduate,Married,WA,91750,yes,no,no,cellular,Businessman,65704,2
+709646433,54,M,4,Unknown,Married,CA,91750,no,yes,no,cellular,White-collar,119250,3
+709649958,57,F,3,Graduate,Unknown,CA,91750,no,yes,no,cellular,Retirees,24826,2
+709657533,43,M,3,Graduate,Married,CA,91750,no,no,no,cellular,Govt,112593,2
+709660233,58,M,1,Graduate,Single,TX,91750,no,yes,no,cellular,Businessman,107744,2
+709662708,48,F,5,Graduate,Married,NY,91750,yes,yes,no,cellular,Govt,19094,2
+709663608,55,F,2,Graduate,Single,NY,91750,no,yes,yes,unknown,White-collar,19474,2
+709664658,63,M,0,Unknown,Single,TX,91750,yes,no,no,cellular,Govt,49497,3
+709665783,39,M,3,Doctorate,Married,FL,91750,no,no,no,cellular,Selfemployeed,78836,2
+709666908,38,M,3,"High School",Single,NJ,91750,no,no,no,unknown,Govt,73510,3
+709668408,34,M,2,Graduate,Married,CA,91750,no,yes,no,cellular,Blue-collar,97284,2
+709669533,41,M,4,"High School",Married,NY,91750,no,no,yes,cellular,White-collar,64945,2
+709671708,54,M,1,"High School",Married,TX,91750,yes,no,no,cellular,Blue-collar,10019,2
+709674333,48,F,4,"High School",Married,NY,91750,yes,no,no,unknown,Selfemployeed,31383,2
+709678608,59,F,1,Graduate,Single,NY,91750,no,yes,no,cellular,Businessman,55866,2
+709679658,37,M,4,Graduate,Married,NY,91750,no,no,no,unknown,Businessman,80933,2
+709682658,56,F,4,Graduate,Married,NY,91750,yes,no,no,cellular,Selfemployeed,12584,2
+709683633,51,F,3,Unknown,Married,CA,91750,yes,no,no,cellular,Selfemployeed,33499,2
+709688883,45,F,4,Graduate,Unknown,FL,91750,yes,no,no,unknown,Retirees,22969,2
+709690158,41,F,4,Unknown,Single,FL,91750,no,no,no,cellular,Selfemployeed,14884,2
+709693833,42,F,3,"High School",Single,TX,91750,no,yes,no,telephone,Govt,28104,3
+709695333,47,F,3,Graduate,Married,CA,91750,no,no,yes,cellular,Selfemployeed,39032,2
+709700058,44,M,4,Unknown,Married,NY,91750,yes,no,no,cellular,Blue-collar,63135,3
+709701558,46,F,3,Graduate,Unknown,CA,91750,no,no,no,cellular,Blue-collar,14567,2
+709703433,30,F,1,Graduate,Single,TX,91750,no,no,no,cellular,Retirees,15446,2
+709707033,54,F,0,Post-Graduate,Single,NJ,91750,yes,no,no,cellular,Blue-collar,13763,2
+709708233,44,F,4,Uneducated,Single,TX,91750,no,yes,no,cellular,Selfemployeed,14975,3
+709709283,40,F,2,Uneducated,Single,CA,91750,no,yes,no,cellular,Blue-collar,24317,2
+709710783,41,F,2,Graduate,Single,CA,91750,no,no,no,cellular,White-collar,31967,3
+709711758,54,F,1,Graduate,Married,FL,91750,yes,yes,no,unknown,White-collar,17144,2
+709713033,65,F,0,Graduate,Unknown,NY,91750,no,no,no,unknown,Selfemployeed,14975,2
+709714008,46,F,2,Unknown,Married,FL,91750,no,no,no,cellular,Retirees,25686,3
+709716258,49,M,4,Uneducated,Married,CA,91750,no,no,no,unknown,Retirees,16225,3
+709718058,43,M,5,"High School",Married,FL,91750,no,no,yes,cellular,Govt,72630,3
+709719333,35,M,2,Graduate,Married,TX,91750,yes,no,no,cellular,Blue-collar,80777,3
+709722858,59,M,0,"High School",Single,TX,91750,no,no,no,cellular,Govt,114711,2
+709726158,38,M,2,Uneducated,Single,TX,91750,yes,yes,no,cellular,White-collar,95473,2
+709728183,42,F,2,Graduate,Married,FL,91750,no,no,no,cellular,White-collar,59289,3
+709729533,32,F,0,Graduate,Single,CA,91750,no,yes,no,cellular,Businessman,22876,3
+709730508,44,M,5,Doctorate,Single,TX,91750,no,yes,no,cellular,Selfemployeed,68783,2
+709732608,41,M,3,Graduate,Single,NY,91750,no,yes,no,cellular,Blue-collar,56365,3
+709735008,47,F,2,Graduate,Married,TX,91750,no,no,yes,cellular,Blue-collar,18482,3
+709736658,46,M,2,Graduate,Married,NV,91750,no,yes,no,cellular,Businessman,62968,3
+709738008,39,M,1,Graduate,Married,NY,91750,yes,yes,no,unknown,Businessman,90756,3
+709739283,58,F,0,Graduate,Married,CA,91750,no,yes,yes,cellular,White-collar,53629,2
+709741608,43,M,3,Unknown,Married,CA,91750,no,yes,yes,cellular,Govt,41334,2
+709742958,55,F,3,Uneducated,Single,TX,91750,no,no,no,cellular,White-collar,36899,2
+709745508,58,F,3,"High School",Married,NY,91750,no,yes,no,telephone,Blue-collar,22334,3
+709747308,56,M,3,"High School",Married,FL,91750,no,yes,no,cellular,Businessman,75538,2
+709749483,34,M,1,Graduate,Married,FL,91750,no,no,no,cellular,White-collar,69584,3
+709752183,55,F,2,Graduate,Single,VA,91750,no,no,yes,cellular,Selfemployeed,12715,3
+709757583,29,F,0,Uneducated,Single,NY,91750,yes,no,no,telephone,Blue-collar,21187,3
+709759908,39,M,3,Graduate,Married,CA,91750,no,yes,yes,cellular,Govt,57930,2
+709762008,57,M,3,Unknown,Married,FL,91750,yes,yes,no,cellular,Retirees,71313,2
+709762908,43,M,3,Graduate,Unknown,NY,91750,no,no,no,cellular,Retirees,89096,2
+709764483,37,M,3,Post-Graduate,Married,TX,91750,no,yes,no,cellular,Businessman,48436,2
+709766808,48,M,2,"High School",Married,NY,91750,no,no,no,cellular,Govt,42746,2
+709769283,53,F,1,Graduate,Single,FL,91750,no,no,no,cellular,Blue-collar,52252,2
+709770408,55,M,3,Graduate,Married,FL,91750,yes,yes,no,telephone,Businessman,115855,2
+709774608,44,F,2,Graduate,Single,CA,91750,yes,yes,no,cellular,Businessman,37668,2
+709779258,35,F,2,Unknown,Married,TX,91750,no,yes,no,cellular,Govt,49630,2
+709780158,39,M,3,"High School",Single,CA,91750,yes,yes,no,cellular,Govt,79341,3
+709781208,42,M,1,"High School",Married,TX,91750,yes,no,no,cellular,Retirees,98960,2
+709783908,56,F,1,"High School",Single,CA,91750,no,no,no,unknown,White-collar,18581,2
+709785783,26,M,0,Unknown,Single,NY,91750,no,yes,yes,unknown,Selfemployeed,14975,3
+709787733,44,M,4,Graduate,Single,NY,91750,yes,no,no,cellular,Blue-collar,48600,3
+709788783,52,M,0,Unknown,Married,TX,91750,yes,no,no,cellular,Govt,92593,3
+709790058,47,M,4,Graduate,Married,FL,91750,yes,yes,no,cellular,Govt,88788,2
+709791333,52,M,3,Graduate,Married,NY,91750,no,no,no,cellular,Selfemployeed,76643,3
+709793133,47,F,3,Uneducated,Single,TX,91750,yes,yes,yes,cellular,Selfemployeed,14975,2
+709794333,47,F,4,Unknown,Single,FL,91750,yes,yes,yes,cellular,Selfemployeed,14975,1
+709798908,53,F,1,Unknown,Married,CA,91750,yes,no,no,unknown,Retirees,30654,3
+709802208,48,F,3,Uneducated,Single,NJ,91750,no,no,no,cellular,Blue-collar,32977,2
+709803258,43,F,0,"High School",Married,NY,91750,no,no,no,unknown,Retirees,26760,2
+709804533,50,F,4,"High School",Married,TX,91750,no,no,no,cellular,Blue-collar,46567,1
+709807383,45,F,2,Unknown,Married,FL,91750,yes,no,no,telephone,Businessman,212509,3
+709810458,44,F,3,Graduate,Married,NY,91750,yes,yes,no,unknown,Retirees,54920,2
+709813008,41,M,2,Graduate,Married,CA,91750,no,no,yes,cellular,White-collar,65986,1
+709814883,43,F,2,Graduate,Single,CA,90025,yes,yes,no,unknown,Businessman,215862,3
+709816158,47,F,3,Graduate,Single,CA,91750,no,no,no,cellular,White-collar,23101,1
+709820658,45,M,2,Unknown,Married,TX,91750,no,yes,no,cellular,Govt,42191,1
+709822008,63,M,1,Graduate,Married,NY,91750,no,no,no,cellular,Blue-collar,57565,2
+709823733,41,M,3,Uneducated,Single,TX,91750,no,yes,no,telephone,Retirees,104384,2
+709824633,57,M,2,Graduate,Married,NY,91750,no,yes,yes,cellular,White-collar,91871,3
+709826058,53,F,2,Uneducated,Married,CA,91750,no,yes,no,unknown,Retirees,16146,1
+709827933,30,M,1,Unknown,Single,NJ,91750,yes,no,no,cellular,White-collar,39969,3
+709830783,43,F,5,Graduate,Single,TX,91750,yes,no,no,cellular,Retirees,48357,1
+709831983,45,F,5,Graduate,Married,NY,91750,no,yes,no,cellular,Businessman,204723,2
+709836258,50,M,3,Uneducated,Single,FL,91750,no,yes,no,telephone,Businessman,94176,3
+709837308,45,F,2,Graduate,Married,NJ,91750,yes,no,no,cellular,White-collar,43234,1
+709838508,47,M,1,Unknown,Married,FL,91750,no,no,no,telephone,Businessman,102039,3
+709839858,29,F,2,Uneducated,Single,NJ,91750,no,no,no,unknown,Selfemployeed,14975,3
+709841433,39,F,2,"High School",Single,CA,91750,yes,yes,no,cellular,Selfemployeed,44329,2
+709850508,42,F,3,Unknown,Married,NJ,91750,no,yes,no,cellular,Selfemployeed,33541,2
+709852908,39,F,3,Graduate,Married,NV,91750,no,no,no,unknown,Selfemployeed,14975,3
+709854483,62,F,0,Graduate,Single,TX,91750,yes,yes,yes,unknown,Businessman,27552,2
+709855608,61,F,0,Graduate,Married,CA,91750,yes,yes,no,cellular,Selfemployeed,6550,2
+709857033,29,M,1,Uneducated,Married,TX,91750,no,no,no,cellular,White-collar,51868,1
+709858533,41,F,4,Uneducated,Unknown,NY,91750,no,yes,no,cellular,White-collar,25627,2
+709861008,43,M,3,Graduate,Single,FL,91750,no,no,no,cellular,Businessman,114799,3
+709864833,53,F,2,Graduate,Single,CA,91750,yes,yes,no,cellular,Blue-collar,12005,3
+709865883,32,M,1,"High School",Single,HI,91750,yes,yes,no,cellular,White-collar,116862,2
+709868433,58,M,1,Graduate,Married,TX,91750,yes,no,no,cellular,Businessman,60839,3
+709869708,54,F,2,"High School",Single,NY,91750,yes,no,no,cellular,Blue-collar,48255,2
+709871658,48,M,4,Unknown,Single,NY,91750,yes,yes,no,cellular,Selfemployeed,107307,3
+709873683,55,M,1,Uneducated,Single,NY,91750,yes,yes,no,cellular,Retirees,58881,1
+709876008,36,F,2,Unknown,Unknown,TX,91750,yes,no,no,cellular,Blue-collar,16094,1
+709879458,56,F,1,Graduate,Married,PA,91750,no,yes,no,cellular,Retirees,17671,1
+709883883,47,M,4,Graduate,Single,TX,91750,no,no,no,cellular,Selfemployeed,110342,1
+709886583,53,F,3,Unknown,Single,CA,91750,yes,yes,no,telephone,Businessman,32243,1
+709887483,51,F,3,"High School",Married,FL,91750,yes,yes,no,cellular,Retirees,38348,1
+709888383,59,M,0,Uneducated,Unknown,CA,91750,yes,yes,no,telephone,White-collar,63945,1
+709891608,33,F,1,Graduate,Married,FL,91750,yes,yes,no,unknown,Govt,19018,3
+709892658,44,M,4,"High School",Single,NY,91750,no,yes,no,unknown,White-collar,65216,1
+709893858,49,M,2,Post-Graduate,Married,NY,91750,yes,yes,no,cellular,White-collar,71847,2
+709895508,44,M,4,Unknown,Single,CA,91750,yes,yes,no,cellular,White-collar,103638,1
+709897983,57,F,0,Graduate,Married,CA,91750,no,yes,yes,cellular,Selfemployeed,18501,1
+709901058,35,M,2,"High School",Married,NJ,91750,no,no,no,cellular,Blue-collar,52805,3
+709902108,41,M,3,Doctorate,Single,TX,91750,yes,no,no,cellular,Retirees,85981,3
+709904508,41,M,2,Doctorate,Married,UT,91750,no,yes,no,cellular,Businessman,52950,2
+709910733,39,M,2,Unknown,Unknown,TX,91750,no,no,no,cellular,Businessman,126439,1
+709912683,55,M,0,Unknown,Single,TX,91750,no,yes,no,cellular,Govt,60020,1
+709913733,37,F,3,"High School",Single,MI,91750,no,no,no,cellular,Selfemployeed,14975,2
+709914858,40,M,3,Graduate,Single,CA,91750,no,no,no,cellular,White-collar,95077,1
+709916058,65,F,1,Graduate,Single,NY,91750,no,no,no,unknown,Selfemployeed,14975,2
+709918158,53,F,2,Graduate,Married,CA,91750,no,yes,yes,unknown,Blue-collar,20405,2
+709919283,58,F,0,Uneducated,Unknown,TX,91750,yes,yes,no,telephone,Selfemployeed,14975,3
+709920258,36,M,4,Doctorate,Married,UT,91750,yes,no,yes,cellular,Selfemployeed,67145,3
+709921158,56,F,1,Unknown,Married,CA,91750,no,no,no,cellular,Selfemployeed,54921,3
+709922508,51,M,2,Unknown,Married,CA,91750,yes,yes,no,cellular,Govt,95699,3
+709925733,55,M,0,Doctorate,Married,CA,91750,no,no,no,cellular,Govt,93040,3
+709927458,50,F,3,Post-Graduate,Single,WA,91750,no,yes,no,unknown,Selfemployeed,48536,1
+709928358,51,M,3,Graduate,Single,TX,91750,yes,no,no,telephone,Govt,114988,2
+709930758,26,F,1,Uneducated,Single,FL,91750,no,no,no,unknown,Selfemployeed,14975,2
+709932558,34,F,2,Graduate,Unknown,TX,91750,no,no,no,unknown,Blue-collar,15484,3
+709934808,56,M,3,Uneducated,Married,FL,91750,yes,no,no,cellular,White-collar,123414,3
+709935708,49,M,3,"High School",Single,FL,91750,no,no,no,cellular,White-collar,56575,3
+709937583,56,F,3,Graduate,Single,FL,91750,no,yes,no,cellular,Businessman,156076,3
+709938708,41,M,2,Graduate,Single,NY,91750,no,no,no,cellular,Selfemployeed,69235,2
+709942383,50,F,4,Graduate,Married,CA,91750,no,yes,no,unknown,Selfemployeed,14975,2
+709945458,55,M,1,Doctorate,Single,NY,91750,no,no,no,cellular,Retirees,78433,3
+709946658,57,M,2,Graduate,Unknown,NY,91750,no,no,no,cellular,Selfemployeed,71723,1
+709948233,57,M,1,Graduate,Unknown,CA,91750,no,yes,no,cellular,White-collar,98193,2
+709950858,42,F,3,Uneducated,Single,CA,91750,yes,yes,no,cellular,Retirees,37625,3
+709952658,39,M,2,Doctorate,Single,CA,91750,yes,no,no,cellular,Govt,63651,2
+709955958,38,F,0,Uneducated,Single,CA,91750,yes,yes,no,unknown,White-collar,36794,3
+709957158,42,M,3,"High School",Married,TX,91750,yes,no,no,cellular,Retirees,45716,2
+709959858,55,M,2,"High School",Single,FL,91750,no,yes,no,cellular,Selfemployeed,42908,1
+709961958,45,F,4,Doctorate,Unknown,NJ,91750,yes,no,no,unknown,Selfemployeed,5525,2
+709965858,46,M,3,Uneducated,Married,NY,91750,no,no,yes,telephone,Retirees,70704,2
+709967358,35,F,2,Graduate,Married,FL,91750,no,no,no,cellular,Selfemployeed,14975,3
+709969758,49,M,1,Graduate,Single,FL,91750,no,no,no,unknown,White-collar,147447,3
+709971708,47,M,3,Post-Graduate,Unknown,MN,91750,no,no,no,cellular,White-collar,118831,3
+709972908,51,M,2,Graduate,Married,NY,91750,yes,no,no,cellular,Blue-collar,59285,3
+709974108,54,F,1,Graduate,Unknown,NY,91750,yes,yes,no,cellular,White-collar,34818,3
+709976358,49,M,3,Graduate,Single,TX,91750,yes,no,no,cellular,Selfemployeed,46013,3
+709977933,38,M,2,"High School",Married,NY,91750,yes,no,no,cellular,Businessman,114772,1
+709979583,40,F,3,Uneducated,Married,NY,91750,no,no,no,unknown,Selfemployeed,19950,3
+709980783,41,F,4,Graduate,Married,FL,91750,no,no,no,cellular,Selfemployeed,49299,1
+709982658,41,M,4,Graduate,Unknown,TX,91750,no,yes,no,cellular,Selfemployeed,54328,3
+709984083,42,M,2,Graduate,Married,FL,91750,yes,no,no,cellular,Selfemployeed,109168,1
+709985133,51,F,0,Graduate,Married,CA,91750,no,no,no,unknown,Retirees,30557,3
+709986633,57,F,2,Graduate,Married,FL,91750,no,no,no,cellular,Blue-collar,22430,1
+709987683,35,F,2,Graduate,Married,CA,91750,no,yes,no,cellular,Selfemployeed,32551,3
+709990983,38,F,3,Post-Graduate,Married,CA,91750,yes,no,no,cellular,Selfemployeed,11385,2
+709991883,45,F,5,Post-Graduate,Married,TX,91750,no,yes,no,cellular,Selfemployeed,5225,3
+709993158,61,F,0,Graduate,Single,CA,91750,no,no,no,cellular,Blue-collar,45266,1
+709996833,45,M,2,Uneducated,Unknown,NJ,91750,no,no,no,cellular,Businessman,104586,1
+709997958,47,F,5,Graduate,Single,CA,91750,no,no,no,cellular,White-collar,22129,3
+709999308,27,F,0,Unknown,Single,CA,91750,yes,yes,no,cellular,Govt,37793,1
+710002833,43,M,3,Post-Graduate,Married,TX,91750,yes,no,no,cellular,Govt,58964,3
+710003958,46,F,3,"High School",Single,CA,91750,no,yes,no,cellular,Blue-collar,50310,1
+710004933,57,F,0,Unknown,Married,CA,91750,no,yes,no,unknown,Blue-collar,14029,2
+710005683,40,F,4,Uneducated,Married,NJ,91750,yes,no,yes,cellular,Businessman,235039,2
+710006958,37,M,3,Graduate,Married,CA,91750,yes,yes,no,cellular,Govt,76798,1
+710013258,49,M,2,"High School",Married,NY,91750,no,no,no,cellular,White-collar,63977,2
+710014683,45,F,2,Graduate,Married,MI,91750,no,no,no,cellular,Selfemployeed,32665,3
+710015733,42,F,3,Unknown,Married,NY,91750,no,no,no,cellular,Govt,35023,2
+710016708,52,M,3,Unknown,Single,TX,91750,no,yes,no,unknown,Businessman,109516,1
+710017758,35,F,3,Graduate,Married,FL,91750,yes,yes,yes,cellular,Businessman,42161,2
+710019933,34,F,2,"High School",Married,FL,91750,no,no,no,cellular,White-collar,138682,1
+710023233,65,M,2,Unknown,Single,CA,91750,no,no,no,cellular,White-collar,32029,2
+710026458,36,M,2,Graduate,Single,CA,91750,yes,no,no,cellular,Businessman,119774,3
+710027508,52,F,4,Graduate,Married,CA,91750,no,yes,no,unknown,Selfemployeed,13102,3
+710032608,62,F,0,Graduate,Single,FL,91750,no,yes,no,unknown,Selfemployeed,14975,1
+710035008,35,F,3,Uneducated,Married,FL,91750,no,no,no,cellular,Retirees,28453,3
+710036508,40,F,3,Graduate,Single,FL,91750,yes,no,no,cellular,Selfemployeed,8250,1
+710038008,38,F,1,"High School",Unknown,MO,91750,yes,no,no,unknown,Selfemployeed,14237,2
+710039208,52,F,2,"High School",Single,NY,91750,no,yes,no,cellular,Retirees,44071,2
+710040483,31,M,1,Graduate,Married,NY,91750,no,no,no,cellular,Selfemployeed,44698,1
+710043408,47,F,5,Uneducated,Married,CA,91750,no,no,no,unknown,Blue-collar,18439,2
+710044308,50,F,0,Graduate,Married,CA,91750,yes,yes,no,telephone,Govt,28323,3
+710045058,42,F,2,Unknown,Married,TX,91750,yes,yes,no,cellular,Blue-collar,12512,3
+710047533,48,M,2,"High School",Single,CA,91750,no,no,no,cellular,Businessman,115498,1
+710051658,39,M,2,"High School",Single,FL,91750,no,yes,no,cellular,Blue-collar,60577,2
+710056758,55,F,3,Post-Graduate,Unknown,TX,91750,no,no,yes,cellular,Businessman,220595,3
+710058033,51,M,3,Post-Graduate,Married,CA,91750,yes,no,no,cellular,White-collar,42092,1
+710061783,47,M,4,Uneducated,Married,NY,91750,yes,no,no,cellular,Blue-collar,66411,1
+710064033,43,F,4,Uneducated,Single,CA,91750,no,no,no,cellular,Selfemployeed,38771,1
+710066133,54,M,2,"High School",Married,CA,91750,no,no,no,cellular,Govt,119104,2
+710067183,49,F,0,Graduate,Married,TX,91750,no,yes,no,unknown,Govt,21188,1
+710070183,53,F,2,Graduate,Married,TX,91750,yes,no,no,cellular,Blue-collar,13600,3
+710074458,47,M,1,Graduate,Married,TX,91750,no,no,no,cellular,Retirees,56565,1
+710077008,47,F,0,Graduate,Married,FL,91750,no,yes,yes,cellular,White-collar,38259,2
+710078358,52,F,5,Graduate,Single,TX,91750,no,yes,yes,cellular,White-collar,50129,1
+710080383,42,M,3,Graduate,Single,FL,91750,yes,no,no,cellular,Retirees,61330,2
+710081208,41,M,5,Unknown,Unknown,GA,91750,yes,no,no,unknown,White-collar,108672,1
+710082708,47,F,4,Graduate,Single,TX,91750,no,no,yes,cellular,Selfemployeed,11150,1
+710084883,53,F,1,"High School",Single,CA,91750,yes,no,no,cellular,White-collar,33915,1
+710086308,47,M,4,"High School",Married,CA,91750,yes,yes,no,cellular,Govt,73962,3
+710088483,54,F,4,Unknown,Married,CA,91750,yes,yes,no,cellular,Retirees,36022,3
+710090133,45,F,2,Graduate,Single,FL,91750,no,no,no,cellular,Selfemployeed,44956,1
+710090958,44,F,4,Uneducated,Single,TX,91750,no,no,no,cellular,Selfemployeed,52717,3
+710092683,40,F,4,Graduate,Single,CA,91750,yes,no,no,unknown,Businessman,16725,2
+710094108,48,M,2,Graduate,Married,NJ,91750,yes,no,no,telephone,White-collar,95965,1
+710096658,47,F,5,Graduate,Married,NY,91750,no,no,no,cellular,Retirees,23257,3
+710098233,44,M,4,Graduate,Married,NY,91750,yes,no,no,telephone,White-collar,66212,2
+710099358,49,M,2,Doctorate,Single,CA,91750,no,no,yes,cellular,Selfemployeed,86420,2
+710102208,53,M,2,"High School",Single,NY,91750,no,yes,no,cellular,Retirees,63887,2
+710103558,55,F,1,Graduate,Unknown,CA,91750,no,no,yes,cellular,Blue-collar,12373,2
+710104908,52,F,4,Uneducated,Single,CA,91750,no,yes,no,cellular,Blue-collar,10604,1
+710106933,46,M,4,"High School",Single,NY,91750,yes,no,no,unknown,Businessman,179997,1
+710108133,46,F,2,Graduate,Single,TX,91750,no,yes,no,cellular,Selfemployeed,11588,2
+710109633,55,F,2,Graduate,Single,NY,91750,no,yes,no,cellular,Selfemployeed,14975,1
+710110683,41,M,4,Uneducated,Married,CA,91750,no,no,no,cellular,Retirees,80840,1
+710111733,49,F,2,Unknown,Married,TX,91750,yes,yes,no,unknown,Blue-collar,12445,3
+710112933,57,F,3,Post-Graduate,Married,CA,91750,no,yes,yes,cellular,White-collar,30206,2
+710115108,50,M,3,Graduate,Single,NY,91750,yes,no,no,cellular,Blue-collar,68950,1
+710116833,54,F,1,Graduate,Married,TX,91750,yes,yes,yes,cellular,Govt,32073,2
+710119233,51,F,2,Unknown,Married,TX,91750,no,no,no,cellular,Businessman,52811,2
+710120358,49,F,4,Graduate,Single,FL,91750,no,yes,yes,unknown,Businessman,23844,2
+710122458,53,F,2,Graduate,Married,NY,91750,no,yes,no,cellular,Businessman,209926,1
+710125608,59,M,0,Unknown,Married,NJ,91750,no,no,no,telephone,Retirees,76846,1
+710129283,65,F,0,"High School",Married,NJ,91750,no,no,no,cellular,Businessman,33675,2
+710133858,37,F,2,"High School",Married,TX,91750,yes,yes,yes,cellular,Selfemployeed,51900,1
